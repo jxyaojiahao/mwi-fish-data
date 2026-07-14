@@ -1,0 +1,343 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-14T03:25:30.324Z",
+  "generatedAtChina": "2026/7/14 11:25:30",
+  "weekKey": "2026-07-10",
+  "weekStart": "2026-07-09T16:00:00.000Z",
+  "weekEnd": "2026-07-16T16:00:00.000Z",
+  "source": {
+    "repo": "jxyaojiahao/mwi-fish-data",
+    "branch": "main",
+    "playerDataDir": "player_data",
+    "playerCount": 6
+  },
+  "trialGroups": {
+    "generatedAt": "2026-07-14T03:25:30.253Z",
+    "playerCount": 6,
+    "selectedLifeTrials": [
+      {
+        "key": "milking",
+        "label": "挤奶",
+        "skillHrid": "/skills/milking"
+      },
+      {
+        "key": "crafting",
+        "label": "制作",
+        "skillHrid": "/skills/crafting"
+      },
+      {
+        "key": "brewing",
+        "label": "冲泡",
+        "skillHrid": "/skills/brewing"
+      },
+      {
+        "key": "alchemy",
+        "label": "炼金",
+        "skillHrid": "/skills/alchemy"
+      }
+    ],
+    "life": {
+      "groups": [
+        {
+          "key": "milking",
+          "label": "挤奶",
+          "skillHrid": "/skills/milking",
+          "maxSize": 20,
+          "members": []
+        },
+        {
+          "key": "crafting",
+          "label": "制作",
+          "skillHrid": "/skills/crafting",
+          "maxSize": 20,
+          "members": [
+            {
+              "name": "NIUB1",
+              "id": 133426,
+              "assignedSkill": "crafting",
+              "assignedLabel": "制作",
+              "assignedLevel": 134,
+              "preferredSkill": "crafting",
+              "preferredLevel": 134,
+              "skillLevels": {
+                "milking": 106,
+                "crafting": 134,
+                "brewing": 115,
+                "alchemy": 116
+              },
+              "redirected": false
+            },
+            {
+              "name": "Qoo",
+              "id": 143102,
+              "assignedSkill": "crafting",
+              "assignedLabel": "制作",
+              "assignedLevel": 123,
+              "preferredSkill": "crafting",
+              "preferredLevel": 123,
+              "skillLevels": {
+                "milking": 101,
+                "crafting": 123,
+                "brewing": 110,
+                "alchemy": 106
+              },
+              "redirected": false
+            },
+            {
+              "name": "Lilzh777",
+              "id": 219832,
+              "assignedSkill": "crafting",
+              "assignedLabel": "制作",
+              "assignedLevel": 118,
+              "preferredSkill": "crafting",
+              "preferredLevel": 118,
+              "skillLevels": {
+                "milking": 100,
+                "crafting": 118,
+                "brewing": 100,
+                "alchemy": 102
+              },
+              "redirected": false
+            },
+            {
+              "name": "poisonJerry",
+              "id": 112972,
+              "assignedSkill": "crafting",
+              "assignedLabel": "制作",
+              "assignedLevel": 118,
+              "preferredSkill": "crafting",
+              "preferredLevel": 118,
+              "skillLevels": {
+                "milking": 109,
+                "crafting": 118,
+                "brewing": 112,
+                "alchemy": 101
+              },
+              "redirected": false
+            },
+            {
+              "name": "xiaofushou",
+              "id": 154227,
+              "assignedSkill": "crafting",
+              "assignedLabel": "制作",
+              "assignedLevel": 108,
+              "preferredSkill": "crafting",
+              "preferredLevel": 108,
+              "skillLevels": {
+                "milking": 95,
+                "crafting": 108,
+                "brewing": 97,
+                "alchemy": 91
+              },
+              "redirected": false
+            }
+          ]
+        },
+        {
+          "key": "brewing",
+          "label": "冲泡",
+          "skillHrid": "/skills/brewing",
+          "maxSize": 20,
+          "members": []
+        },
+        {
+          "key": "alchemy",
+          "label": "炼金",
+          "skillHrid": "/skills/alchemy",
+          "maxSize": 20,
+          "members": [
+            {
+              "name": "XueYuanZhang",
+              "id": 172519,
+              "assignedSkill": "alchemy",
+              "assignedLabel": "炼金",
+              "assignedLevel": 104,
+              "preferredSkill": "alchemy",
+              "preferredLevel": 104,
+              "skillLevels": {
+                "milking": 79,
+                "crafting": 90,
+                "brewing": 84,
+                "alchemy": 104
+              },
+              "redirected": false
+            }
+          ]
+        }
+      ],
+      "overflow": []
+    },
+    "battle": {
+      "groups": [
+        {
+          "key": "battle_1",
+          "label": "战斗试炼 1",
+          "maxSize": 40,
+          "members": [
+            {
+              "name": "Qoo",
+              "id": 143102,
+              "role": "aura",
+              "abilityHrid": "/abilities/guardian_aura",
+              "abilityLabel": "守护光环",
+              "abilityLevel": 34,
+              "reviveLevel": 1,
+              "combatScore": 738
+            },
+            {
+              "name": "Lilzh777",
+              "id": 219832,
+              "role": "aura",
+              "abilityHrid": "/abilities/fierce_aura",
+              "abilityLabel": "物理光环",
+              "abilityLevel": 11,
+              "reviveLevel": 0,
+              "combatScore": 730
+            },
+            {
+              "name": "xiaofushou",
+              "id": 154227,
+              "role": "aura",
+              "abilityHrid": "/abilities/critical_aura",
+              "abilityLabel": "暴击光环",
+              "abilityLevel": 13,
+              "reviveLevel": 0,
+              "combatScore": 755
+            }
+          ],
+          "auraAssignments": [
+            {
+              "name": "Qoo",
+              "id": 143102,
+              "role": "aura",
+              "abilityHrid": "/abilities/guardian_aura",
+              "abilityLabel": "守护光环",
+              "abilityLevel": 34,
+              "reviveLevel": 1,
+              "combatScore": 738
+            },
+            {
+              "name": "Lilzh777",
+              "id": 219832,
+              "role": "aura",
+              "abilityHrid": "/abilities/fierce_aura",
+              "abilityLabel": "物理光环",
+              "abilityLevel": 11,
+              "reviveLevel": 0,
+              "combatScore": 730
+            },
+            {
+              "name": "xiaofushou",
+              "id": 154227,
+              "role": "aura",
+              "abilityHrid": "/abilities/critical_aura",
+              "abilityLabel": "暴击光环",
+              "abilityLevel": 13,
+              "reviveLevel": 0,
+              "combatScore": 755
+            }
+          ]
+        },
+        {
+          "key": "battle_2",
+          "label": "战斗试炼 2",
+          "maxSize": 40,
+          "members": [
+            {
+              "name": "poisonJerry",
+              "id": 112972,
+              "role": "aura",
+              "abilityHrid": "/abilities/guardian_aura",
+              "abilityLabel": "守护光环",
+              "abilityLevel": 13,
+              "reviveLevel": 1,
+              "combatScore": 733
+            },
+            {
+              "name": "XueYuanZhang",
+              "id": 172519,
+              "role": "aura",
+              "abilityHrid": "/abilities/fierce_aura",
+              "abilityLabel": "物理光环",
+              "abilityLevel": 10,
+              "reviveLevel": 0,
+              "combatScore": 501
+            },
+            {
+              "name": "NIUB1",
+              "id": 133426,
+              "role": "aura",
+              "abilityHrid": "/abilities/critical_aura",
+              "abilityLabel": "暴击光环",
+              "abilityLevel": 1,
+              "reviveLevel": 30,
+              "combatScore": 761
+            }
+          ],
+          "auraAssignments": [
+            {
+              "name": "poisonJerry",
+              "id": 112972,
+              "role": "aura",
+              "abilityHrid": "/abilities/guardian_aura",
+              "abilityLabel": "守护光环",
+              "abilityLevel": 13,
+              "reviveLevel": 1,
+              "combatScore": 733
+            },
+            {
+              "name": "XueYuanZhang",
+              "id": 172519,
+              "role": "aura",
+              "abilityHrid": "/abilities/fierce_aura",
+              "abilityLabel": "物理光环",
+              "abilityLevel": 10,
+              "reviveLevel": 0,
+              "combatScore": 501
+            },
+            {
+              "name": "NIUB1",
+              "id": 133426,
+              "role": "aura",
+              "abilityHrid": "/abilities/critical_aura",
+              "abilityLabel": "暴击光环",
+              "abilityLevel": 1,
+              "reviveLevel": 30,
+              "combatScore": 761
+            }
+          ]
+        }
+      ],
+      "auraHrids": [
+        "/abilities/guardian_aura",
+        "/abilities/fierce_aura",
+        "/abilities/critical_aura",
+        "/abilities/speed_aura",
+        "/abilities/mystic_aura"
+      ],
+      "missingAuras": [
+        {
+          "group": "战斗试炼 1",
+          "abilityHrid": "/abilities/speed_aura",
+          "reason": "no_available_player"
+        },
+        {
+          "group": "战斗试炼 2",
+          "abilityHrid": "/abilities/speed_aura",
+          "reason": "no_available_player"
+        },
+        {
+          "group": "战斗试炼 1",
+          "abilityHrid": "/abilities/mystic_aura",
+          "reason": "no_available_player"
+        },
+        {
+          "group": "战斗试炼 2",
+          "abilityHrid": "/abilities/mystic_aura",
+          "reason": "no_available_player"
+        }
+      ],
+      "overflow": []
+    }
+  }
+}
