@@ -1,6 +1,6 @@
 {
   "type": "init_character_data",
-  "currentTimestamp": "2026-07-14T03:14:56.024138651Z",
+  "currentTimestamp": "2026-07-14T03:18:15.904399881Z",
   "user": {
     "id": 176922,
     "isGuest": false,
@@ -50,8 +50,8 @@
     "avatarBackgroundHrid": "",
     "avatarBorderHrid": "",
     "isOnline": true,
-    "lastOfflineTime": "2026-07-14T01:40:08.9399955Z",
-    "inactiveTime": "2026-07-15T03:40:08.9399955Z",
+    "lastOfflineTime": "2026-07-14T03:15:52.503649901Z",
+    "inactiveTime": "2026-07-15T05:15:52.503649901Z",
     "isDeleted": false,
     "createdAt": "2025-03-12T01:34:07Z",
     "updatedAt": "2026-06-14T06:12:23Z"
@@ -190,7 +190,7 @@
       "difficultyTier": 0,
       "hasMaxCount": false,
       "maxCount": 0,
-      "currentCount": 206823,
+      "currentCount": 206866,
       "wave": 0,
       "primaryItemHash": "",
       "secondaryItemHash": "",
@@ -200,7 +200,7 @@
       "ordinal": -1,
       "isDone": false,
       "createdAt": "2026-06-01T09:40:07Z",
-      "updatedAt": "2026-07-14T03:14:54.637067406Z"
+      "updatedAt": "2026-07-14T03:18:07.465312949Z"
     },
     {
       "id": 217812187,
@@ -224,96 +224,6 @@
     }
   ],
   "characterQuests": [
-    {
-      "id": 63940204,
-      "characterID": 172519,
-      "category": "/quest_category/random_task",
-      "tutorialQuestHrid": "",
-      "type": "/quest_type/action",
-      "actionHrid": "/actions/tailoring/linen_fabric",
-      "monsterHrid": "",
-      "goalCount": 281,
-      "currentCount": 0,
-      "itemRewardsJSON": "[{\"itemHrid\":\"/items/coin\",\"count\":5600},{\"itemHrid\":\"/items/task_token\",\"count\":4}]",
-      "status": "/quest_status/in_progress",
-      "coinRerollCount": 0,
-      "cowbellRerollCount": 0,
-      "mooPassRerollCount": 1,
-      "createdAt": "2026-04-16T08:27:59Z",
-      "updatedAt": "2026-04-16T08:28:02Z"
-    },
-    {
-      "id": 64012102,
-      "characterID": 172519,
-      "category": "/quest_category/random_task",
-      "tutorialQuestHrid": "",
-      "type": "/quest_type/action",
-      "actionHrid": "/actions/woodcutting/ginkgo_tree",
-      "monsterHrid": "",
-      "goalCount": 743,
-      "currentCount": 0,
-      "itemRewardsJSON": "[{\"itemHrid\":\"/items/coin\",\"count\":24355},{\"itemHrid\":\"/items/task_token\",\"count\":6}]",
-      "status": "/quest_status/in_progress",
-      "coinRerollCount": 0,
-      "cowbellRerollCount": 0,
-      "mooPassRerollCount": 0,
-      "createdAt": "2026-04-17T00:36:21Z",
-      "updatedAt": "2026-04-17T00:36:21Z"
-    },
-    {
-      "id": 64140189,
-      "characterID": 172519,
-      "category": "/quest_category/random_task",
-      "tutorialQuestHrid": "",
-      "type": "/quest_type/action",
-      "actionHrid": "/actions/woodcutting/redwood_tree",
-      "monsterHrid": "",
-      "goalCount": 1214,
-      "currentCount": 0,
-      "itemRewardsJSON": "[{\"itemHrid\":\"/items/coin\",\"count\":44915},{\"itemHrid\":\"/items/task_token\",\"count\":9}]",
-      "status": "/quest_status/in_progress",
-      "coinRerollCount": 0,
-      "cowbellRerollCount": 0,
-      "mooPassRerollCount": 1,
-      "createdAt": "2026-04-18T03:01:15Z",
-      "updatedAt": "2026-04-18T03:01:22Z"
-    },
-    {
-      "id": 67731051,
-      "characterID": 172519,
-      "category": "/quest_category/random_task",
-      "tutorialQuestHrid": "",
-      "type": "/quest_type/monster",
-      "actionHrid": "",
-      "monsterHrid": "/monsters/novice_sorcerer",
-      "goalCount": 73,
-      "currentCount": 0,
-      "itemRewardsJSON": "[{\"itemHrid\":\"/items/coin\",\"count\":10347},{\"itemHrid\":\"/items/task_token\",\"count\":5}]",
-      "status": "/quest_status/in_progress",
-      "coinRerollCount": 0,
-      "cowbellRerollCount": 0,
-      "mooPassRerollCount": 0,
-      "createdAt": "2026-05-20T04:29:10Z",
-      "updatedAt": "2026-05-20T04:29:10Z"
-    },
-    {
-      "id": 67731052,
-      "characterID": 172519,
-      "category": "/quest_category/random_task",
-      "tutorialQuestHrid": "",
-      "type": "/quest_type/monster",
-      "actionHrid": "",
-      "monsterHrid": "/monsters/polar_bear",
-      "goalCount": 109,
-      "currentCount": 0,
-      "itemRewardsJSON": "[{\"itemHrid\":\"/items/coin\",\"count\":32953},{\"itemHrid\":\"/items/task_token\",\"count\":7}]",
-      "status": "/quest_status/in_progress",
-      "coinRerollCount": 0,
-      "cowbellRerollCount": 0,
-      "mooPassRerollCount": 0,
-      "createdAt": "2026-05-20T04:29:10Z",
-      "updatedAt": "2026-05-20T04:29:10Z"
-    },
     {
       "id": 63442779,
       "characterID": 172519,
@@ -619,17 +529,143 @@
       "mooPassRerollCount": 0,
       "createdAt": "2026-05-20T04:29:10Z",
       "updatedAt": "2026-05-20T04:29:10Z"
+    },
+    {
+      "id": 63940204,
+      "characterID": 172519,
+      "category": "/quest_category/random_task",
+      "tutorialQuestHrid": "",
+      "type": "/quest_type/action",
+      "actionHrid": "/actions/tailoring/linen_fabric",
+      "monsterHrid": "",
+      "goalCount": 281,
+      "currentCount": 0,
+      "itemRewardsJSON": "[{\"itemHrid\":\"/items/coin\",\"count\":5600},{\"itemHrid\":\"/items/task_token\",\"count\":4}]",
+      "status": "/quest_status/in_progress",
+      "coinRerollCount": 0,
+      "cowbellRerollCount": 0,
+      "mooPassRerollCount": 1,
+      "createdAt": "2026-04-16T08:27:59Z",
+      "updatedAt": "2026-04-16T08:28:02Z"
+    },
+    {
+      "id": 64012102,
+      "characterID": 172519,
+      "category": "/quest_category/random_task",
+      "tutorialQuestHrid": "",
+      "type": "/quest_type/action",
+      "actionHrid": "/actions/woodcutting/ginkgo_tree",
+      "monsterHrid": "",
+      "goalCount": 743,
+      "currentCount": 0,
+      "itemRewardsJSON": "[{\"itemHrid\":\"/items/coin\",\"count\":24355},{\"itemHrid\":\"/items/task_token\",\"count\":6}]",
+      "status": "/quest_status/in_progress",
+      "coinRerollCount": 0,
+      "cowbellRerollCount": 0,
+      "mooPassRerollCount": 0,
+      "createdAt": "2026-04-17T00:36:21Z",
+      "updatedAt": "2026-04-17T00:36:21Z"
+    },
+    {
+      "id": 64140189,
+      "characterID": 172519,
+      "category": "/quest_category/random_task",
+      "tutorialQuestHrid": "",
+      "type": "/quest_type/action",
+      "actionHrid": "/actions/woodcutting/redwood_tree",
+      "monsterHrid": "",
+      "goalCount": 1214,
+      "currentCount": 0,
+      "itemRewardsJSON": "[{\"itemHrid\":\"/items/coin\",\"count\":44915},{\"itemHrid\":\"/items/task_token\",\"count\":9}]",
+      "status": "/quest_status/in_progress",
+      "coinRerollCount": 0,
+      "cowbellRerollCount": 0,
+      "mooPassRerollCount": 1,
+      "createdAt": "2026-04-18T03:01:15Z",
+      "updatedAt": "2026-04-18T03:01:22Z"
+    },
+    {
+      "id": 67731051,
+      "characterID": 172519,
+      "category": "/quest_category/random_task",
+      "tutorialQuestHrid": "",
+      "type": "/quest_type/monster",
+      "actionHrid": "",
+      "monsterHrid": "/monsters/novice_sorcerer",
+      "goalCount": 73,
+      "currentCount": 0,
+      "itemRewardsJSON": "[{\"itemHrid\":\"/items/coin\",\"count\":10347},{\"itemHrid\":\"/items/task_token\",\"count\":5}]",
+      "status": "/quest_status/in_progress",
+      "coinRerollCount": 0,
+      "cowbellRerollCount": 0,
+      "mooPassRerollCount": 0,
+      "createdAt": "2026-05-20T04:29:10Z",
+      "updatedAt": "2026-05-20T04:29:10Z"
+    },
+    {
+      "id": 67731052,
+      "characterID": 172519,
+      "category": "/quest_category/random_task",
+      "tutorialQuestHrid": "",
+      "type": "/quest_type/monster",
+      "actionHrid": "",
+      "monsterHrid": "/monsters/polar_bear",
+      "goalCount": 109,
+      "currentCount": 0,
+      "itemRewardsJSON": "[{\"itemHrid\":\"/items/coin\",\"count\":32953},{\"itemHrid\":\"/items/task_token\",\"count\":7}]",
+      "status": "/quest_status/in_progress",
+      "coinRerollCount": 0,
+      "cowbellRerollCount": 0,
+      "mooPassRerollCount": 0,
+      "createdAt": "2026-05-20T04:29:10Z",
+      "updatedAt": "2026-05-20T04:29:10Z"
     }
   ],
   "characterSkills": [
     {
       "characterID": 172519,
+      "skillHrid": "/skills/cheesesmithing",
+      "experience": 1471961.0851898366,
+      "level": 78,
+      "offlineExperience": 0,
+      "createdAt": "2025-03-12T01:34:07Z",
+      "updatedAt": "2026-04-12T07:03:12Z"
+    },
+    {
+      "characterID": 172519,
+      "skillHrid": "/skills/ranged",
+      "experience": 0,
+      "level": 1,
+      "offlineExperience": 0,
+      "createdAt": "2025-03-12T01:34:07Z",
+      "updatedAt": "2025-03-12T01:34:07Z"
+    },
+    {
+      "characterID": 172519,
+      "skillHrid": "/skills/defense",
+      "experience": 8127033.639329545,
+      "level": 97,
+      "offlineExperience": 0,
+      "createdAt": "2025-03-12T01:34:07Z",
+      "updatedAt": "2026-04-16T08:31:53Z"
+    },
+    {
+      "characterID": 172519,
+      "skillHrid": "/skills/milking",
+      "experience": 1646717.3437494747,
+      "level": 79,
+      "offlineExperience": 0,
+      "createdAt": "2025-03-12T01:34:07Z",
+      "updatedAt": "2026-04-12T07:11:17Z"
+    },
+    {
+      "characterID": 172519,
       "skillHrid": "/skills/total_level",
-      "experience": 570350904.7842245,
+      "experience": 570354315.5442241,
       "level": 1490,
       "offlineExperience": 0,
       "createdAt": "2025-03-12T01:34:07Z",
-      "updatedAt": "2026-07-14T03:14:54.635824704Z"
+      "updatedAt": "2026-07-14T03:18:07.46360887Z"
     },
     {
       "characterID": 172519,
@@ -679,11 +715,11 @@
     {
       "characterID": 172519,
       "skillHrid": "/skills/tailoring",
-      "experience": 439624040.3327519,
+      "experience": 439627451.0927516,
       "level": 138,
-      "offlineExperience": 103988.52000000035,
+      "offlineExperience": 2458.92,
       "createdAt": "2025-03-12T01:34:07Z",
-      "updatedAt": "2026-07-14T03:14:54.634984265Z"
+      "updatedAt": "2026-07-14T03:18:07.461847908Z"
     },
     {
       "characterID": 172519,
@@ -747,180 +783,9 @@
       "offlineExperience": 0,
       "createdAt": "2025-03-12T01:34:07Z",
       "updatedAt": "2026-04-16T08:34:00Z"
-    },
-    {
-      "characterID": 172519,
-      "skillHrid": "/skills/cheesesmithing",
-      "experience": 1471961.0851898366,
-      "level": 78,
-      "offlineExperience": 0,
-      "createdAt": "2025-03-12T01:34:07Z",
-      "updatedAt": "2026-04-12T07:03:12Z"
-    },
-    {
-      "characterID": 172519,
-      "skillHrid": "/skills/ranged",
-      "experience": 0,
-      "level": 1,
-      "offlineExperience": 0,
-      "createdAt": "2025-03-12T01:34:07Z",
-      "updatedAt": "2025-03-12T01:34:07Z"
-    },
-    {
-      "characterID": 172519,
-      "skillHrid": "/skills/defense",
-      "experience": 8127033.639329545,
-      "level": 97,
-      "offlineExperience": 0,
-      "createdAt": "2025-03-12T01:34:07Z",
-      "updatedAt": "2026-04-16T08:31:53Z"
-    },
-    {
-      "characterID": 172519,
-      "skillHrid": "/skills/milking",
-      "experience": 1646717.3437494747,
-      "level": 79,
-      "offlineExperience": 0,
-      "createdAt": "2025-03-12T01:34:07Z",
-      "updatedAt": "2026-04-12T07:11:17Z"
     }
   ],
   "characterAbilities": [
-    {
-      "characterID": 172519,
-      "abilityHrid": "/abilities/elemental_affinity",
-      "experience": 523948.3999995232,
-      "level": 67,
-      "slotNumber": 2,
-      "createdAt": "2025-03-21T03:53:38Z",
-      "updatedAt": "2026-04-16T08:33:02Z"
-    },
-    {
-      "characterID": 172519,
-      "abilityHrid": "/abilities/frost_surge",
-      "experience": 0,
-      "level": 1,
-      "slotNumber": 0,
-      "createdAt": "2025-07-31T11:52:51Z",
-      "updatedAt": "2025-07-31T11:52:51Z"
-    },
-    {
-      "characterID": 172519,
-      "abilityHrid": "/abilities/maim",
-      "experience": 330.60000000000383,
-      "level": 6,
-      "slotNumber": 0,
-      "createdAt": "2025-11-07T03:38:10Z",
-      "updatedAt": "2025-11-09T12:11:27Z"
-    },
-    {
-      "characterID": 172519,
-      "abilityHrid": "/abilities/poke",
-      "experience": 6050,
-      "level": 23,
-      "slotNumber": 0,
-      "createdAt": "2025-03-13T03:26:33Z",
-      "updatedAt": "2025-10-12T12:13:31Z"
-    },
-    {
-      "characterID": 172519,
-      "abilityHrid": "/abilities/rain_of_arrows",
-      "experience": 1000,
-      "level": 11,
-      "slotNumber": 0,
-      "createdAt": "2025-05-08T01:49:30Z",
-      "updatedAt": "2025-05-26T02:05:49Z"
-    },
-    {
-      "characterID": 172519,
-      "abilityHrid": "/abilities/spike_shell",
-      "experience": 10000,
-      "level": 28,
-      "slotNumber": 0,
-      "createdAt": "2026-02-24T02:06:35Z",
-      "updatedAt": "2026-04-16T08:33:02Z"
-    },
-    {
-      "characterID": 172519,
-      "abilityHrid": "/abilities/water_strike",
-      "experience": 1050,
-      "level": 11,
-      "slotNumber": 0,
-      "createdAt": "2025-03-17T13:35:31Z",
-      "updatedAt": "2025-06-12T16:18:20Z"
-    },
-    {
-      "characterID": 172519,
-      "abilityHrid": "/abilities/aqua_arrow",
-      "experience": 0,
-      "level": 1,
-      "slotNumber": 0,
-      "createdAt": "2025-03-28T07:29:24Z",
-      "updatedAt": "2025-03-28T07:29:24Z"
-    },
-    {
-      "characterID": 172519,
-      "abilityHrid": "/abilities/berserk",
-      "experience": 35810.50000000402,
-      "level": 40,
-      "slotNumber": 0,
-      "createdAt": "2025-07-31T11:52:41Z",
-      "updatedAt": "2026-04-16T08:33:02Z"
-    },
-    {
-      "characterID": 172519,
-      "abilityHrid": "/abilities/flame_blast",
-      "experience": 843095.8999989725,
-      "level": 72,
-      "slotNumber": 4,
-      "createdAt": "2025-03-12T15:38:36Z",
-      "updatedAt": "2026-04-16T08:33:02Z"
-    },
-    {
-      "characterID": 172519,
-      "abilityHrid": "/abilities/heal",
-      "experience": 508.59999999999997,
-      "level": 8,
-      "slotNumber": 0,
-      "createdAt": "2025-03-15T15:52:50Z",
-      "updatedAt": "2025-11-27T12:11:05Z"
-    },
-    {
-      "characterID": 172519,
-      "abilityHrid": "/abilities/natures_veil",
-      "experience": 500,
-      "level": 7,
-      "slotNumber": 0,
-      "createdAt": "2025-05-08T01:49:21Z",
-      "updatedAt": "2025-05-08T01:49:23Z"
-    },
-    {
-      "characterID": 172519,
-      "abilityHrid": "/abilities/toxic_pollen",
-      "experience": 1000,
-      "level": 11,
-      "slotNumber": 0,
-      "createdAt": "2025-05-08T01:49:25Z",
-      "updatedAt": "2025-09-30T07:47:27Z"
-    },
-    {
-      "characterID": 172519,
-      "abilityHrid": "/abilities/fireball",
-      "experience": 685813.7999999742,
-      "level": 70,
-      "slotNumber": 5,
-      "createdAt": "2025-03-12T12:49:56Z",
-      "updatedAt": "2026-04-16T08:33:02Z"
-    },
-    {
-      "characterID": 172519,
-      "abilityHrid": "/abilities/mystic_aura",
-      "experience": 77892.00000001932,
-      "level": 48,
-      "slotNumber": 1,
-      "createdAt": "2025-08-18T23:23:48Z",
-      "updatedAt": "2026-04-16T08:33:02Z"
-    },
     {
       "characterID": 172519,
       "abilityHrid": "/abilities/quick_aid",
@@ -1163,20 +1028,323 @@
       "slotNumber": 0,
       "createdAt": "2025-05-26T02:05:47Z",
       "updatedAt": "2025-05-26T02:05:51Z"
+    },
+    {
+      "characterID": 172519,
+      "abilityHrid": "/abilities/elemental_affinity",
+      "experience": 523948.3999995232,
+      "level": 67,
+      "slotNumber": 2,
+      "createdAt": "2025-03-21T03:53:38Z",
+      "updatedAt": "2026-04-16T08:33:02Z"
+    },
+    {
+      "characterID": 172519,
+      "abilityHrid": "/abilities/frost_surge",
+      "experience": 0,
+      "level": 1,
+      "slotNumber": 0,
+      "createdAt": "2025-07-31T11:52:51Z",
+      "updatedAt": "2025-07-31T11:52:51Z"
+    },
+    {
+      "characterID": 172519,
+      "abilityHrid": "/abilities/maim",
+      "experience": 330.60000000000383,
+      "level": 6,
+      "slotNumber": 0,
+      "createdAt": "2025-11-07T03:38:10Z",
+      "updatedAt": "2025-11-09T12:11:27Z"
+    },
+    {
+      "characterID": 172519,
+      "abilityHrid": "/abilities/poke",
+      "experience": 6050,
+      "level": 23,
+      "slotNumber": 0,
+      "createdAt": "2025-03-13T03:26:33Z",
+      "updatedAt": "2025-10-12T12:13:31Z"
+    },
+    {
+      "characterID": 172519,
+      "abilityHrid": "/abilities/rain_of_arrows",
+      "experience": 1000,
+      "level": 11,
+      "slotNumber": 0,
+      "createdAt": "2025-05-08T01:49:30Z",
+      "updatedAt": "2025-05-26T02:05:49Z"
+    },
+    {
+      "characterID": 172519,
+      "abilityHrid": "/abilities/spike_shell",
+      "experience": 10000,
+      "level": 28,
+      "slotNumber": 0,
+      "createdAt": "2026-02-24T02:06:35Z",
+      "updatedAt": "2026-04-16T08:33:02Z"
+    },
+    {
+      "characterID": 172519,
+      "abilityHrid": "/abilities/water_strike",
+      "experience": 1050,
+      "level": 11,
+      "slotNumber": 0,
+      "createdAt": "2025-03-17T13:35:31Z",
+      "updatedAt": "2025-06-12T16:18:20Z"
+    },
+    {
+      "characterID": 172519,
+      "abilityHrid": "/abilities/aqua_arrow",
+      "experience": 0,
+      "level": 1,
+      "slotNumber": 0,
+      "createdAt": "2025-03-28T07:29:24Z",
+      "updatedAt": "2025-03-28T07:29:24Z"
+    },
+    {
+      "characterID": 172519,
+      "abilityHrid": "/abilities/berserk",
+      "experience": 35810.50000000402,
+      "level": 40,
+      "slotNumber": 0,
+      "createdAt": "2025-07-31T11:52:41Z",
+      "updatedAt": "2026-04-16T08:33:02Z"
+    },
+    {
+      "characterID": 172519,
+      "abilityHrid": "/abilities/flame_blast",
+      "experience": 843095.8999989725,
+      "level": 72,
+      "slotNumber": 4,
+      "createdAt": "2025-03-12T15:38:36Z",
+      "updatedAt": "2026-04-16T08:33:02Z"
+    },
+    {
+      "characterID": 172519,
+      "abilityHrid": "/abilities/heal",
+      "experience": 508.59999999999997,
+      "level": 8,
+      "slotNumber": 0,
+      "createdAt": "2025-03-15T15:52:50Z",
+      "updatedAt": "2025-11-27T12:11:05Z"
+    },
+    {
+      "characterID": 172519,
+      "abilityHrid": "/abilities/natures_veil",
+      "experience": 500,
+      "level": 7,
+      "slotNumber": 0,
+      "createdAt": "2025-05-08T01:49:21Z",
+      "updatedAt": "2025-05-08T01:49:23Z"
+    },
+    {
+      "characterID": 172519,
+      "abilityHrid": "/abilities/toxic_pollen",
+      "experience": 1000,
+      "level": 11,
+      "slotNumber": 0,
+      "createdAt": "2025-05-08T01:49:25Z",
+      "updatedAt": "2025-09-30T07:47:27Z"
+    },
+    {
+      "characterID": 172519,
+      "abilityHrid": "/abilities/fireball",
+      "experience": 685813.7999999742,
+      "level": 70,
+      "slotNumber": 5,
+      "createdAt": "2025-03-12T12:49:56Z",
+      "updatedAt": "2026-04-16T08:33:02Z"
+    },
+    {
+      "characterID": 172519,
+      "abilityHrid": "/abilities/mystic_aura",
+      "experience": 77892.00000001932,
+      "level": 48,
+      "slotNumber": 1,
+      "createdAt": "2025-08-18T23:23:48Z",
+      "updatedAt": "2026-04-16T08:33:02Z"
     }
   ],
   "characterItems": [
+    {
+      "id": 71704342,
+      "characterID": 172519,
+      "itemLocationHrid": "/item_locations/inventory",
+      "itemHrid": "/items/chrono_gloves",
+      "enhancementLevel": 10,
+      "count": 1,
+      "offlineCount": 0,
+      "hash": "172519::/item_locations/inventory::/items/chrono_gloves::10",
+      "createdAt": "2025-12-19T00:49:23Z",
+      "updatedAt": "2026-04-16T08:35:10Z"
+    },
+    {
+      "id": 68312293,
+      "characterID": 172519,
+      "itemLocationHrid": "/item_locations/inventory",
+      "itemHrid": "/items/dragon_fruit_yogurt",
+      "enhancementLevel": 0,
+      "count": 185,
+      "offlineCount": 0,
+      "hash": "172519::/item_locations/inventory::/items/dragon_fruit_yogurt::0",
+      "createdAt": "2025-11-11T08:36:34Z",
+      "updatedAt": "2025-12-21T11:16:29Z"
+    },
+    {
+      "id": 48610383,
+      "characterID": 172519,
+      "itemLocationHrid": "/item_locations/inventory",
+      "itemHrid": "/items/orange_gummy",
+      "enhancementLevel": 0,
+      "count": 263,
+      "offlineCount": 0,
+      "hash": "172519::/item_locations/inventory::/items/orange_gummy::0",
+      "createdAt": "2025-06-22T06:19:50Z",
+      "updatedAt": "2025-12-22T02:00:13Z"
+    },
+    {
+      "id": 81833382,
+      "characterID": 172519,
+      "itemLocationHrid": "/item_locations/inventory",
+      "itemHrid": "/items/seal_of_gourmet",
+      "enhancementLevel": 0,
+      "count": 3,
+      "offlineCount": 0,
+      "hash": "172519::/item_locations/inventory::/items/seal_of_gourmet::0",
+      "createdAt": "2026-04-12T03:51:42Z",
+      "updatedAt": "2026-05-23T14:56:25Z"
+    },
+    {
+      "id": 67107199,
+      "characterID": 172519,
+      "itemLocationHrid": "/item_locations/inventory",
+      "itemHrid": "/items/sighted_bracers",
+      "enhancementLevel": 0,
+      "count": 1,
+      "offlineCount": 0,
+      "hash": "172519::/item_locations/inventory::/items/sighted_bracers::0",
+      "createdAt": "2025-10-29T03:34:39Z",
+      "updatedAt": "2026-05-09T03:08:33Z"
+    },
+    {
+      "id": 71901980,
+      "characterID": 172519,
+      "itemLocationHrid": "/item_locations/inventory",
+      "itemHrid": "/items/spaceberry_cake",
+      "enhancementLevel": 0,
+      "count": 9904,
+      "offlineCount": 0,
+      "hash": "172519::/item_locations/inventory::/items/spaceberry_cake::0",
+      "createdAt": "2025-12-21T02:45:51Z",
+      "updatedAt": "2025-12-30T08:53:12Z"
+    },
+    {
+      "id": 12447472,
+      "characterID": 172519,
+      "itemLocationHrid": "/item_locations/inventory",
+      "itemHrid": "/items/tailoring_essence",
+      "enhancementLevel": 0,
+      "count": 233,
+      "offlineCount": 6,
+      "hash": "172519::/item_locations/inventory::/items/tailoring_essence::0",
+      "createdAt": "2025-03-12T09:21:16Z",
+      "updatedAt": "2026-07-14T03:17:46.036094193Z"
+    },
+    {
+      "id": 12726533,
+      "characterID": 172519,
+      "itemLocationHrid": "/item_locations/inventory",
+      "itemHrid": "/items/brewing_essence",
+      "enhancementLevel": 0,
+      "count": 1447,
+      "offlineCount": 0,
+      "hash": "172519::/item_locations/inventory::/items/brewing_essence::0",
+      "createdAt": "2025-03-13T04:01:50Z",
+      "updatedAt": "2026-01-20T11:29:23Z"
+    },
+    {
+      "id": 67105005,
+      "characterID": 172519,
+      "itemLocationHrid": "/item_locations/inventory",
+      "itemHrid": "/items/magnifying_glass",
+      "enhancementLevel": 0,
+      "count": 1,
+      "offlineCount": 0,
+      "hash": "172519::/item_locations/inventory::/items/magnifying_glass::0",
+      "createdAt": "2025-10-29T03:12:39Z",
+      "updatedAt": "2026-05-08T09:10:55Z"
+    },
+    {
+      "id": 12337567,
+      "characterID": 172519,
+      "itemLocationHrid": "/item_locations/inventory",
+      "itemHrid": "/items/task_token",
+      "enhancementLevel": 0,
+      "count": 120,
+      "offlineCount": 0,
+      "hash": "172519::/item_locations/inventory::/items/task_token::0",
+      "createdAt": "2025-03-12T02:57:51Z",
+      "updatedAt": "2026-04-13T08:16:40Z"
+    },
+    {
+      "id": 59846748,
+      "characterID": 172519,
+      "itemLocationHrid": "/item_locations/inventory",
+      "itemHrid": "/items/umbral_hide",
+      "enhancementLevel": 0,
+      "count": 126750,
+      "offlineCount": -62,
+      "hash": "172519::/item_locations/inventory::/items/umbral_hide::0",
+      "createdAt": "2025-08-26T05:38:34Z",
+      "updatedAt": "2026-07-14T03:18:07.458227768Z"
+    },
+    {
+      "id": 13726512,
+      "characterID": 172519,
+      "itemLocationHrid": "/item_locations/inventory",
+      "itemHrid": "/items/shard_of_protection",
+      "enhancementLevel": 0,
+      "count": 2067,
+      "offlineCount": 0,
+      "hash": "172519::/item_locations/inventory::/items/shard_of_protection::0",
+      "createdAt": "2025-03-15T15:51:10Z",
+      "updatedAt": "2026-07-13T00:46:35.156300648Z"
+    },
+    {
+      "id": 12724302,
+      "characterID": 172519,
+      "itemLocationHrid": "/item_locations/inventory",
+      "itemHrid": "/items/wisdom_tea",
+      "enhancementLevel": 0,
+      "count": 7490,
+      "offlineCount": 0,
+      "hash": "172519::/item_locations/inventory::/items/wisdom_tea::0",
+      "createdAt": "2025-03-13T03:54:31Z",
+      "updatedAt": "2026-05-08T09:25:32Z"
+    },
+    {
+      "id": 87999673,
+      "characterID": 172519,
+      "itemLocationHrid": "/item_locations/inventory",
+      "itemHrid": "/items/guild_token",
+      "enhancementLevel": 0,
+      "count": 2800,
+      "offlineCount": 0,
+      "hash": "172519::/item_locations/inventory::/items/guild_token::0",
+      "createdAt": "2026-07-13T00:41:38Z",
+      "updatedAt": "2026-07-13T01:40:01.134445447Z"
+    },
     {
       "id": 17155136,
       "characterID": 172519,
       "itemLocationHrid": "/item_locations/inventory",
       "itemHrid": "/items/efficiency_tea",
       "enhancementLevel": 0,
-      "count": 2416,
-      "offlineCount": -21,
+      "count": 2415,
+      "offlineCount": -1,
       "hash": "172519::/item_locations/inventory::/items/efficiency_tea::0",
       "createdAt": "2025-03-24T03:50:01Z",
-      "updatedAt": "2026-07-14T03:11:41.775602965Z"
+      "updatedAt": "2026-07-14T03:16:09.647672081Z"
     },
     {
       "id": 77461984,
@@ -1568,11 +1736,11 @@
       "itemLocationHrid": "/item_locations/inventory",
       "itemHrid": "/items/umbral_leather",
       "enhancementLevel": 0,
-      "count": 206892,
-      "offlineCount": 1311,
+      "count": 206935,
+      "offlineCount": 31,
       "hash": "172519::/item_locations/inventory::/items/umbral_leather::0",
       "createdAt": "2025-08-27T03:43:06Z",
-      "updatedAt": "2026-07-14T03:14:54.632245726Z"
+      "updatedAt": "2026-07-14T03:18:07.45895007Z"
     },
     {
       "id": 13157572,
@@ -2283,172 +2451,40 @@
       "updatedAt": "2026-05-27T16:06:48Z"
     },
     {
-      "id": 71704342,
+      "id": 58496246,
       "characterID": 172519,
-      "itemLocationHrid": "/item_locations/inventory",
-      "itemHrid": "/items/chrono_gloves",
+      "itemLocationHrid": "/item_locations/body",
+      "itemHrid": "/items/tailors_top",
       "enhancementLevel": 10,
       "count": 1,
       "offlineCount": 0,
-      "hash": "172519::/item_locations/inventory::/items/chrono_gloves::10",
-      "createdAt": "2025-12-19T00:49:23Z",
+      "hash": "172519::/item_locations/body::/items/tailors_top::10",
+      "createdAt": "2025-08-18T11:23:25Z",
       "updatedAt": "2026-04-16T08:35:10Z"
     },
     {
-      "id": 68312293,
+      "id": 71671940,
       "characterID": 172519,
-      "itemLocationHrid": "/item_locations/inventory",
-      "itemHrid": "/items/dragon_fruit_yogurt",
-      "enhancementLevel": 0,
-      "count": 185,
-      "offlineCount": 0,
-      "hash": "172519::/item_locations/inventory::/items/dragon_fruit_yogurt::0",
-      "createdAt": "2025-11-11T08:36:34Z",
-      "updatedAt": "2025-12-21T11:16:29Z"
-    },
-    {
-      "id": 48610383,
-      "characterID": 172519,
-      "itemLocationHrid": "/item_locations/inventory",
-      "itemHrid": "/items/orange_gummy",
-      "enhancementLevel": 0,
-      "count": 263,
-      "offlineCount": 0,
-      "hash": "172519::/item_locations/inventory::/items/orange_gummy::0",
-      "createdAt": "2025-06-22T06:19:50Z",
-      "updatedAt": "2025-12-22T02:00:13Z"
-    },
-    {
-      "id": 81833382,
-      "characterID": 172519,
-      "itemLocationHrid": "/item_locations/inventory",
-      "itemHrid": "/items/seal_of_gourmet",
-      "enhancementLevel": 0,
-      "count": 3,
-      "offlineCount": 0,
-      "hash": "172519::/item_locations/inventory::/items/seal_of_gourmet::0",
-      "createdAt": "2026-04-12T03:51:42Z",
-      "updatedAt": "2026-05-23T14:56:25Z"
-    },
-    {
-      "id": 67107199,
-      "characterID": 172519,
-      "itemLocationHrid": "/item_locations/inventory",
-      "itemHrid": "/items/sighted_bracers",
-      "enhancementLevel": 0,
+      "itemLocationHrid": "/item_locations/enhancing_tool",
+      "itemHrid": "/items/rainbow_enhancer",
+      "enhancementLevel": 5,
       "count": 1,
       "offlineCount": 0,
-      "hash": "172519::/item_locations/inventory::/items/sighted_bracers::0",
-      "createdAt": "2025-10-29T03:34:39Z",
-      "updatedAt": "2026-05-09T03:08:33Z"
+      "hash": "172519::/item_locations/enhancing_tool::/items/rainbow_enhancer::5",
+      "createdAt": "2025-12-18T14:29:49Z",
+      "updatedAt": "2025-12-18T14:29:49Z"
     },
     {
-      "id": 71901980,
+      "id": 71742941,
       "characterID": 172519,
-      "itemLocationHrid": "/item_locations/inventory",
-      "itemHrid": "/items/spaceberry_cake",
-      "enhancementLevel": 0,
-      "count": 9904,
-      "offlineCount": 0,
-      "hash": "172519::/item_locations/inventory::/items/spaceberry_cake::0",
-      "createdAt": "2025-12-21T02:45:51Z",
-      "updatedAt": "2025-12-30T08:53:12Z"
-    },
-    {
-      "id": 12447472,
-      "characterID": 172519,
-      "itemLocationHrid": "/item_locations/inventory",
-      "itemHrid": "/items/tailoring_essence",
-      "enhancementLevel": 0,
-      "count": 224,
-      "offlineCount": 212,
-      "hash": "172519::/item_locations/inventory::/items/tailoring_essence::0",
-      "createdAt": "2025-03-12T09:21:16Z",
-      "updatedAt": "2026-07-14T03:14:54.630361146Z"
-    },
-    {
-      "id": 12726533,
-      "characterID": 172519,
-      "itemLocationHrid": "/item_locations/inventory",
-      "itemHrid": "/items/brewing_essence",
-      "enhancementLevel": 0,
-      "count": 1447,
-      "offlineCount": 0,
-      "hash": "172519::/item_locations/inventory::/items/brewing_essence::0",
-      "createdAt": "2025-03-13T04:01:50Z",
-      "updatedAt": "2026-01-20T11:29:23Z"
-    },
-    {
-      "id": 67105005,
-      "characterID": 172519,
-      "itemLocationHrid": "/item_locations/inventory",
-      "itemHrid": "/items/magnifying_glass",
-      "enhancementLevel": 0,
+      "itemLocationHrid": "/item_locations/head",
+      "itemHrid": "/items/magicians_hat",
+      "enhancementLevel": 5,
       "count": 1,
       "offlineCount": 0,
-      "hash": "172519::/item_locations/inventory::/items/magnifying_glass::0",
-      "createdAt": "2025-10-29T03:12:39Z",
-      "updatedAt": "2026-05-08T09:10:55Z"
-    },
-    {
-      "id": 12337567,
-      "characterID": 172519,
-      "itemLocationHrid": "/item_locations/inventory",
-      "itemHrid": "/items/task_token",
-      "enhancementLevel": 0,
-      "count": 120,
-      "offlineCount": 0,
-      "hash": "172519::/item_locations/inventory::/items/task_token::0",
-      "createdAt": "2025-03-12T02:57:51Z",
-      "updatedAt": "2026-04-13T08:16:40Z"
-    },
-    {
-      "id": 59846748,
-      "characterID": 172519,
-      "itemLocationHrid": "/item_locations/inventory",
-      "itemHrid": "/items/umbral_hide",
-      "enhancementLevel": 0,
-      "count": 126836,
-      "offlineCount": -2622,
-      "hash": "172519::/item_locations/inventory::/items/umbral_hide::0",
-      "createdAt": "2025-08-26T05:38:34Z",
-      "updatedAt": "2026-07-14T03:14:54.631346824Z"
-    },
-    {
-      "id": 13726512,
-      "characterID": 172519,
-      "itemLocationHrid": "/item_locations/inventory",
-      "itemHrid": "/items/shard_of_protection",
-      "enhancementLevel": 0,
-      "count": 2067,
-      "offlineCount": 0,
-      "hash": "172519::/item_locations/inventory::/items/shard_of_protection::0",
-      "createdAt": "2025-03-15T15:51:10Z",
-      "updatedAt": "2026-07-13T00:46:35.156300648Z"
-    },
-    {
-      "id": 12724302,
-      "characterID": 172519,
-      "itemLocationHrid": "/item_locations/inventory",
-      "itemHrid": "/items/wisdom_tea",
-      "enhancementLevel": 0,
-      "count": 7490,
-      "offlineCount": 0,
-      "hash": "172519::/item_locations/inventory::/items/wisdom_tea::0",
-      "createdAt": "2025-03-13T03:54:31Z",
-      "updatedAt": "2026-05-08T09:25:32Z"
-    },
-    {
-      "id": 87999673,
-      "characterID": 172519,
-      "itemLocationHrid": "/item_locations/inventory",
-      "itemHrid": "/items/guild_token",
-      "enhancementLevel": 0,
-      "count": 2800,
-      "offlineCount": 0,
-      "hash": "172519::/item_locations/inventory::/items/guild_token::0",
-      "createdAt": "2026-07-13T00:41:38Z",
-      "updatedAt": "2026-07-13T01:40:01.134445447Z"
+      "hash": "172519::/item_locations/head::/items/magicians_hat::5",
+      "createdAt": "2025-12-19T08:33:39Z",
+      "updatedAt": "2026-04-16T08:33:02Z"
     },
     {
       "id": 81766034,
@@ -2689,56 +2725,32 @@
       "hash": "172519::/item_locations/hands::/items/enchanted_gloves::5",
       "createdAt": "2026-01-12T02:11:58Z",
       "updatedAt": "2026-04-16T08:35:10Z"
-    },
-    {
-      "id": 58496246,
-      "characterID": 172519,
-      "itemLocationHrid": "/item_locations/body",
-      "itemHrid": "/items/tailors_top",
-      "enhancementLevel": 10,
-      "count": 1,
-      "offlineCount": 0,
-      "hash": "172519::/item_locations/body::/items/tailors_top::10",
-      "createdAt": "2025-08-18T11:23:25Z",
-      "updatedAt": "2026-04-16T08:35:10Z"
-    },
-    {
-      "id": 71671940,
-      "characterID": 172519,
-      "itemLocationHrid": "/item_locations/enhancing_tool",
-      "itemHrid": "/items/rainbow_enhancer",
-      "enhancementLevel": 5,
-      "count": 1,
-      "offlineCount": 0,
-      "hash": "172519::/item_locations/enhancing_tool::/items/rainbow_enhancer::5",
-      "createdAt": "2025-12-18T14:29:49Z",
-      "updatedAt": "2025-12-18T14:29:49Z"
-    },
-    {
-      "id": 71742941,
-      "characterID": 172519,
-      "itemLocationHrid": "/item_locations/head",
-      "itemHrid": "/items/magicians_hat",
-      "enhancementLevel": 5,
-      "count": 1,
-      "offlineCount": 0,
-      "hash": "172519::/item_locations/head::/items/magicians_hat::5",
-      "createdAt": "2025-12-19T08:33:39Z",
-      "updatedAt": "2026-04-16T08:33:02Z"
     }
   ],
   "offlineItems": [
+    {
+      "id": 12447472,
+      "characterID": 172519,
+      "itemLocationHrid": "/item_locations/inventory",
+      "itemHrid": "/items/tailoring_essence",
+      "enhancementLevel": 0,
+      "count": 233,
+      "offlineCount": 6,
+      "hash": "172519::/item_locations/inventory::/items/tailoring_essence::0",
+      "createdAt": "2025-03-12T09:21:16Z",
+      "updatedAt": "2026-07-14T03:17:46.036094193Z"
+    },
     {
       "id": 59846748,
       "characterID": 172519,
       "itemLocationHrid": "/item_locations/inventory",
       "itemHrid": "/items/umbral_hide",
       "enhancementLevel": 0,
-      "count": 126836,
-      "offlineCount": -2622,
+      "count": 126750,
+      "offlineCount": -62,
       "hash": "172519::/item_locations/inventory::/items/umbral_hide::0",
       "createdAt": "2025-08-26T05:38:34Z",
-      "updatedAt": "2026-07-14T03:14:54.631346824Z"
+      "updatedAt": "2026-07-14T03:18:07.458227768Z"
     },
     {
       "id": 59984003,
@@ -2746,11 +2758,11 @@
       "itemLocationHrid": "/item_locations/inventory",
       "itemHrid": "/items/umbral_leather",
       "enhancementLevel": 0,
-      "count": 206892,
-      "offlineCount": 1311,
+      "count": 206935,
+      "offlineCount": 31,
       "hash": "172519::/item_locations/inventory::/items/umbral_leather::0",
       "createdAt": "2025-08-27T03:43:06Z",
-      "updatedAt": "2026-07-14T03:14:54.632245726Z"
+      "updatedAt": "2026-07-14T03:18:07.45895007Z"
     },
     {
       "id": 17155136,
@@ -2758,46 +2770,22 @@
       "itemLocationHrid": "/item_locations/inventory",
       "itemHrid": "/items/efficiency_tea",
       "enhancementLevel": 0,
-      "count": 2416,
-      "offlineCount": -21,
+      "count": 2415,
+      "offlineCount": -1,
       "hash": "172519::/item_locations/inventory::/items/efficiency_tea::0",
       "createdAt": "2025-03-24T03:50:01Z",
-      "updatedAt": "2026-07-14T03:11:41.775602965Z"
-    },
-    {
-      "id": 42066557,
-      "characterID": 172519,
-      "itemLocationHrid": "/item_locations/inventory",
-      "itemHrid": "/items/large_artisans_crate",
-      "enhancementLevel": 0,
-      "count": 12,
-      "offlineCount": 1,
-      "hash": "172519::/item_locations/inventory::/items/large_artisans_crate::0",
-      "createdAt": "2025-05-30T13:34:12Z",
-      "updatedAt": "2026-07-14T02:54:01.080053179Z"
-    },
-    {
-      "id": 12447472,
-      "characterID": 172519,
-      "itemLocationHrid": "/item_locations/inventory",
-      "itemHrid": "/items/tailoring_essence",
-      "enhancementLevel": 0,
-      "count": 224,
-      "offlineCount": 212,
-      "hash": "172519::/item_locations/inventory::/items/tailoring_essence::0",
-      "createdAt": "2025-03-12T09:21:16Z",
-      "updatedAt": "2026-07-14T03:14:54.630361146Z"
+      "updatedAt": "2026-07-14T03:16:09.647672081Z"
     }
   ],
   "offlineSkills": [
     {
       "characterID": 172519,
       "skillHrid": "/skills/tailoring",
-      "experience": 439624040.3327519,
+      "experience": 439627451.0927516,
       "level": 138,
-      "offlineExperience": 103988.52000000035,
+      "offlineExperience": 2458.92,
       "createdAt": "2025-03-12T01:34:07Z",
-      "updatedAt": "2026-07-14T03:14:54.634984265Z"
+      "updatedAt": "2026-07-14T03:18:07.461847908Z"
     }
   ],
   "consumableCombatTriggersMap": {
@@ -3179,7 +3167,7 @@
         "slotIndex": 0,
         "itemHrid": "/items/efficiency_tea",
         "isActive": true,
-        "duration": 68909708571
+        "duration": 146172592838
       },
       {
         "characterID": 172519,
@@ -3704,8 +3692,8 @@
       "avatarBackgroundHrid": "",
       "avatarBorderHrid": "",
       "isOnline": true,
-      "lastOfflineTime": "2026-07-14T01:40:08.9399955Z",
-      "inactiveTime": "2026-07-15T03:40:08.9399955Z",
+      "lastOfflineTime": "2026-07-14T03:15:52.503649901Z",
+      "inactiveTime": "2026-07-15T05:15:52.503649901Z",
       "isDeleted": false,
       "createdAt": "2025-03-12T01:34:07Z",
       "updatedAt": "2026-06-14T06:12:23Z"
@@ -3728,31 +3716,31 @@
         "abilityHrid": "/abilities/mystic_aura",
         "level": 48,
         "experience": 77892.00000001932,
-        "availableTime": "2026-07-14T03:14:56.022330896Z"
+        "availableTime": "2026-07-14T03:18:15.902611667Z"
       },
       {
         "abilityHrid": "/abilities/elemental_affinity",
         "level": 67,
         "experience": 523948.3999995232,
-        "availableTime": "2026-07-14T03:14:56.022332306Z"
+        "availableTime": "2026-07-14T03:18:15.902612267Z"
       },
       {
         "abilityHrid": "/abilities/firestorm",
         "level": 65,
         "experience": 440892.6000000101,
-        "availableTime": "2026-07-14T03:14:56.022333786Z"
+        "availableTime": "2026-07-14T03:18:15.902613077Z"
       },
       {
         "abilityHrid": "/abilities/flame_blast",
         "level": 72,
         "experience": 843095.8999989725,
-        "availableTime": "2026-07-14T03:14:56.022335886Z"
+        "availableTime": "2026-07-14T03:18:15.902613587Z"
       },
       {
         "abilityHrid": "/abilities/fireball",
         "level": 70,
         "experience": 685813.7999999742,
-        "availableTime": "2026-07-14T03:14:56.022336997Z"
+        "availableTime": "2026-07-14T03:18:15.902614018Z"
       }
     ],
     "combatConsumables": [
@@ -3761,42 +3749,42 @@
         "itemHrid": "/items/spaceberry_cake",
         "enhancementLevel": 0,
         "count": 9904,
-        "availableTime": "2026-07-14T03:14:56.022347637Z"
+        "availableTime": "2026-07-14T03:18:15.902621598Z"
       },
       {
         "itemHash": "172519::/item_locations/inventory::/items/star_fruit_gummy::0",
         "itemHrid": "/items/star_fruit_gummy",
         "enhancementLevel": 0,
         "count": 53384,
-        "availableTime": "2026-07-14T03:14:56.022349757Z"
+        "availableTime": "2026-07-14T03:18:15.902622688Z"
       },
       {
         "itemHash": "172519::/item_locations/inventory::/items/star_fruit_yogurt::0",
         "itemHrid": "/items/star_fruit_yogurt",
         "enhancementLevel": 0,
         "count": 7553,
-        "availableTime": "2026-07-14T03:14:56.022350847Z"
+        "availableTime": "2026-07-14T03:18:15.902623458Z"
       },
       {
         "itemHash": "172519::/item_locations/inventory::/items/wisdom_coffee::0",
         "itemHrid": "/items/wisdom_coffee",
         "enhancementLevel": 0,
         "count": 5507,
-        "availableTime": "2026-07-14T03:14:56.022352218Z"
+        "availableTime": "2026-07-14T03:18:15.902626038Z"
       },
       {
         "itemHash": "172519::/item_locations/inventory::/items/critical_coffee::0",
         "itemHrid": "/items/critical_coffee",
         "enhancementLevel": 0,
         "count": 3157,
-        "availableTime": "2026-07-14T03:14:56.022353907Z"
+        "availableTime": "2026-07-14T03:18:15.902627238Z"
       },
       {
         "itemHash": "172519::/item_locations/inventory::/items/intelligence_coffee::0",
         "itemHrid": "/items/intelligence_coffee",
         "enhancementLevel": 0,
         "count": 15711,
-        "availableTime": "2026-07-14T03:14:56.022355688Z"
+        "availableTime": "2026-07-14T03:18:15.902628488Z"
       }
     ],
     "combatBuffMap": {},
@@ -4068,6 +4056,111 @@
   "characterAchievements": [
     {
       "characterID": 172519,
+      "achievementHrid": "/achievements/build_room_level_1",
+      "progress": 1,
+      "isCompleted": true,
+      "isSteamGranted": false
+    },
+    {
+      "characterID": 172519,
+      "achievementHrid": "/achievements/defeat_gobo_chieftain",
+      "progress": 1,
+      "isCompleted": true,
+      "isSteamGranted": false
+    },
+    {
+      "characterID": 172519,
+      "achievementHrid": "/achievements/enhance_to_3",
+      "progress": 1,
+      "isCompleted": true,
+      "isSteamGranted": false
+    },
+    {
+      "characterID": 172519,
+      "achievementHrid": "/achievements/total_level_500",
+      "progress": 500,
+      "isCompleted": true,
+      "isSteamGranted": false
+    },
+    {
+      "characterID": 172519,
+      "achievementHrid": "/achievements/collect_butter_of_proficiency",
+      "progress": 1,
+      "isCompleted": true,
+      "isSteamGranted": false
+    },
+    {
+      "characterID": 172519,
+      "achievementHrid": "/achievements/collection_points_500",
+      "progress": 500,
+      "isCompleted": true,
+      "isSteamGranted": false
+    },
+    {
+      "characterID": 172519,
+      "achievementHrid": "/achievements/complete_tutorial",
+      "progress": 1,
+      "isCompleted": true,
+      "isSteamGranted": false
+    },
+    {
+      "characterID": 172519,
+      "achievementHrid": "/achievements/defeat_luna_empress",
+      "progress": 1,
+      "isCompleted": true,
+      "isSteamGranted": false
+    },
+    {
+      "characterID": 172519,
+      "achievementHrid": "/achievements/labyrinth_floor_2",
+      "progress": 1,
+      "isCompleted": true,
+      "isSteamGranted": false
+    },
+    {
+      "characterID": 172519,
+      "achievementHrid": "/achievements/learn_special_ability",
+      "progress": 1,
+      "isCompleted": true,
+      "isSteamGranted": false
+    },
+    {
+      "characterID": 172519,
+      "achievementHrid": "/achievements/woodcut_arcane_tree",
+      "progress": 1,
+      "isCompleted": true,
+      "isSteamGranted": false
+    },
+    {
+      "characterID": 172519,
+      "achievementHrid": "/achievements/collect_branch_of_insight",
+      "progress": 1,
+      "isCompleted": true,
+      "isSteamGranted": false
+    },
+    {
+      "characterID": 172519,
+      "achievementHrid": "/achievements/collection_points_1000",
+      "progress": 1000,
+      "isCompleted": true,
+      "isSteamGranted": false
+    },
+    {
+      "characterID": 172519,
+      "achievementHrid": "/achievements/collection_points_200",
+      "progress": 200,
+      "isCompleted": true,
+      "isSteamGranted": false
+    },
+    {
+      "characterID": 172519,
+      "achievementHrid": "/achievements/cook_apple_gummy",
+      "progress": 1,
+      "isCompleted": true,
+      "isSteamGranted": false
+    },
+    {
+      "characterID": 172519,
       "achievementHrid": "/achievements/craft_wooden_bow",
       "progress": 1,
       "isCompleted": true,
@@ -4296,111 +4389,6 @@
       "progress": 183,
       "isCompleted": false,
       "isSteamGranted": false
-    },
-    {
-      "characterID": 172519,
-      "achievementHrid": "/achievements/build_room_level_1",
-      "progress": 1,
-      "isCompleted": true,
-      "isSteamGranted": false
-    },
-    {
-      "characterID": 172519,
-      "achievementHrid": "/achievements/defeat_gobo_chieftain",
-      "progress": 1,
-      "isCompleted": true,
-      "isSteamGranted": false
-    },
-    {
-      "characterID": 172519,
-      "achievementHrid": "/achievements/enhance_to_3",
-      "progress": 1,
-      "isCompleted": true,
-      "isSteamGranted": false
-    },
-    {
-      "characterID": 172519,
-      "achievementHrid": "/achievements/total_level_500",
-      "progress": 500,
-      "isCompleted": true,
-      "isSteamGranted": false
-    },
-    {
-      "characterID": 172519,
-      "achievementHrid": "/achievements/collect_butter_of_proficiency",
-      "progress": 1,
-      "isCompleted": true,
-      "isSteamGranted": false
-    },
-    {
-      "characterID": 172519,
-      "achievementHrid": "/achievements/collection_points_500",
-      "progress": 500,
-      "isCompleted": true,
-      "isSteamGranted": false
-    },
-    {
-      "characterID": 172519,
-      "achievementHrid": "/achievements/complete_tutorial",
-      "progress": 1,
-      "isCompleted": true,
-      "isSteamGranted": false
-    },
-    {
-      "characterID": 172519,
-      "achievementHrid": "/achievements/defeat_luna_empress",
-      "progress": 1,
-      "isCompleted": true,
-      "isSteamGranted": false
-    },
-    {
-      "characterID": 172519,
-      "achievementHrid": "/achievements/labyrinth_floor_2",
-      "progress": 1,
-      "isCompleted": true,
-      "isSteamGranted": false
-    },
-    {
-      "characterID": 172519,
-      "achievementHrid": "/achievements/learn_special_ability",
-      "progress": 1,
-      "isCompleted": true,
-      "isSteamGranted": false
-    },
-    {
-      "characterID": 172519,
-      "achievementHrid": "/achievements/woodcut_arcane_tree",
-      "progress": 1,
-      "isCompleted": true,
-      "isSteamGranted": false
-    },
-    {
-      "characterID": 172519,
-      "achievementHrid": "/achievements/collect_branch_of_insight",
-      "progress": 1,
-      "isCompleted": true,
-      "isSteamGranted": false
-    },
-    {
-      "characterID": 172519,
-      "achievementHrid": "/achievements/collection_points_1000",
-      "progress": 1000,
-      "isCompleted": true,
-      "isSteamGranted": false
-    },
-    {
-      "characterID": 172519,
-      "achievementHrid": "/achievements/collection_points_200",
-      "progress": 200,
-      "isCompleted": true,
-      "isSteamGranted": false
-    },
-    {
-      "characterID": 172519,
-      "achievementHrid": "/achievements/cook_apple_gummy",
-      "progress": 1,
-      "isCompleted": true,
-      "isSteamGranted": false
     }
   ],
   "chatMinLevel": 100,
@@ -4412,246 +4400,6 @@
   "serverSetting": null,
   "chatHistoryByChannelMap": {
     "/chat_channel_types/chinese": [
-      {
-        "id": 63685538,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T02:58:23.136102196Z",
-        "cId": 387296,
-        "icon": "/chat_icons/philosophers_stone",
-        "color": "/name_colors/golden",
-        "sName": "Konen",
-        "m": "做倒是能做"
-      },
-      {
-        "id": 63685539,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T02:58:24.246496474Z",
-        "cId": 390839,
-        "icon": "/chat_icons/siren",
-        "color": "/name_colors/fancy_blue",
-        "sName": "nkpr",
-        "m": "我去谁把工具买完了"
-      },
-      {
-        "id": 63685552,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T02:58:33.523009893Z",
-        "cId": 390839,
-        "icon": "/chat_icons/siren",
-        "color": "/name_colors/fancy_blue",
-        "sName": "nkpr",
-        "m": "110m确实不是好价"
-      },
-      {
-        "id": 63685603,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T02:58:58.480080708Z",
-        "cId": 387296,
-        "icon": "/chat_icons/philosophers_stone",
-        "color": "/name_colors/golden",
-        "sName": "Konen",
-        "m": "大概三天前吧"
-      },
-      {
-        "id": 63685607,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T02:59:01.160741006Z",
-        "cId": 660014,
-        "sName": "doreme123",
-        "m": "去练制造冲泡这些赚钱能练级的"
-      },
-      {
-        "id": 63685629,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T02:59:12.624278461Z",
-        "cId": 387296,
-        "icon": "/chat_icons/philosophers_stone",
-        "color": "/name_colors/golden",
-        "sName": "Konen",
-        "m": "我的+10金凿被扫了"
-      },
-      {
-        "id": 63685643,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T02:59:22.978874724Z",
-        "cId": 42984,
-        "icon": "/chat_icons/anniversary_purple",
-        "sName": "dhdksgah",
-        "m": "冲泡不能只看利润网站喵"
-      },
-      {
-        "id": 63685654,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T02:59:29.719582733Z",
-        "cId": 660014,
-        "sName": "doreme123",
-        "m": "然后转的钱拿去缝纫锻造和炼金强化升级"
-      },
-      {
-        "id": 63685656,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T02:59:31.434278563Z",
-        "cId": 342490,
-        "sName": "DiaoZT1",
-        "m": "{{0}}工会招人，随便来",
-        "linksMetadata": "[{\"linkType\":\"/chat_link_types/guild\",\"guildId\":2151,\"guildName\":\"HelloKitty\"}]"
-      },
-      {
-        "id": 63685657,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T02:59:31.784987223Z",
-        "cId": 413786,
-        "sName": "Caelid",
-        "m": "我现在三采集都83了，该干嘛好啊"
-      },
-      {
-        "id": 63685679,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T02:59:48.408214105Z",
-        "cId": 42984,
-        "icon": "/chat_icons/anniversary_purple",
-        "sName": "dhdksgah",
-        "m": "曾经做出过泡了50000瓶S茶烂手里的壮举"
-      },
-      {
-        "id": 63685689,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T02:59:52.016816209Z",
-        "cId": 240589,
-        "icon": "/chat_icons/anniversary_purple",
-        "color": "/name_colors/coral",
-        "sName": "Karles404",
-        "m": "冲泡受市场波动影响大"
-      },
-      {
-        "id": 63685698,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T02:59:54.146042591Z",
-        "cId": 547824,
-        "icon": "/chat_icons/amethyst",
-        "color": "/name_colors/fancy_burble",
-        "sName": "ARANEAA",
-        "m": "开始当厨子吧"
-      },
-      {
-        "id": 63685710,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T02:59:58.306764816Z",
-        "cId": 580219,
-        "icon": "/chat_icons/tailoring",
-        "sName": "Amour001",
-        "m": "美食 卷轴 提升巨大"
-      },
-      {
-        "id": 63685734,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T03:00:03.372937204Z",
-        "cId": 411187,
-        "icon": "/chat_icons/milking",
-        "sName": "Mylking",
-        "m": "我感觉我都可以转冲泡了"
-      },
-      {
-        "id": 63685739,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T03:00:05.723321054Z",
-        "cId": 240589,
-        "icon": "/chat_icons/anniversary_purple",
-        "color": "/name_colors/coral",
-        "sName": "Karles404",
-        "m": "只要订单一大就很明显"
-      },
-      {
-        "id": 63685749,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T03:00:09.356566312Z",
-        "cId": 411187,
-        "icon": "/chat_icons/milking",
-        "sName": "Mylking",
-        "m": "冲泡挺好玩的"
-      },
-      {
-        "id": 63685765,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T03:00:17.451627265Z",
-        "cId": 671348,
-        "sName": "ywwwuyi",
-        "m": "网页版怎么充哞卡呀，懒得搞虚拟卡了"
-      },
-      {
-        "id": 63685800,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T03:00:40.423991124Z",
-        "cId": 567614,
-        "icon": "/chat_icons/og_jerry",
-        "color": "/name_colors/rainbow",
-        "sName": "M762",
-        "m": "@ywwwuyi steam买"
-      },
-      {
-        "id": 63685810,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T03:00:44.968473021Z",
-        "cId": 539238,
-        "icon": "/chat_icons/golden_clover",
-        "color": "/name_colors/rainbow",
-        "sName": "GTX1080Ti",
-        "m": "我靠 这变色龙62W的血 我打你M"
-      },
-      {
-        "id": 63685825,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T03:00:50.151582743Z",
-        "cId": 240589,
-        "icon": "/chat_icons/anniversary_purple",
-        "color": "/name_colors/coral",
-        "sName": "Karles404",
-        "m": "之前U魔法就是，有个大佬一下子做了不知道多少k出来，把u魔法砸盘了"
-      },
-      {
-        "id": 63685828,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T03:00:51.00133384Z",
-        "cId": 42984,
-        "icon": "/chat_icons/anniversary_purple",
-        "sName": "dhdksgah",
-        "m": "wc，美食卷轴+10%美食 快赶上茶了"
-      },
-      {
-        "id": 63685857,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T03:01:11.022250208Z",
-        "cId": 193275,
-        "sName": "bigniuzhi",
-        "m": "变色龙比刺猬菜"
-      },
-      {
-        "id": 63685871,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T03:01:16.680951638Z",
-        "cId": 644939,
-        "sName": "ZiWenGuiTian",
-        "m": "不要氪金哇😱"
-      },
-      {
-        "id": 63685915,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T03:01:45.334773716Z",
-        "cId": 240589,
-        "icon": "/chat_icons/anniversary_purple",
-        "color": "/name_colors/coral",
-        "sName": "Karles404",
-        "m": "@dhdksgah 美食 加速 效率一起用"
-      },
-      {
-        "id": 63685918,
-        "chan": "/chat_channel_types/chinese",
-        "t": "2026-07-14T03:01:46.192628794Z",
-        "cId": 411187,
-        "icon": "/chat_icons/milking",
-        "sName": "Mylking",
-        "m": "右一橙碎，弩✌填填"
-      },
       {
         "id": 63685923,
         "chan": "/chat_channel_types/chinese",
@@ -5375,6 +5123,270 @@
         "sName": "M762",
         "m": "{{0}}开盾",
         "linksMetadata": "[{\"linkType\":\"/chat_link_types/item\",\"itemHrid\":\"/items/knights_aegis\",\"itemEnhancementLevel\":7,\"itemCount\":1}]"
+      },
+      {
+        "id": 63687269,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:15:00.092006327Z",
+        "cId": 345416,
+        "icon": "/chat_icons/spring_festival_lantern",
+        "color": "/name_colors/rainbow",
+        "sName": "Blitze",
+        "m": "{{0}}",
+        "linksMetadata": "[{\"linkType\":\"/chat_link_types/ability\",\"abilityHrid\":\"/abilities/provoke\",\"abilityLevel\":56,\"abilityExperience\":184921.10000208396}]"
+      },
+      {
+        "id": 63687273,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:15:01.937822982Z",
+        "cId": 235698,
+        "icon": "/chat_icons/woodcutting",
+        "color": "/name_colors/green",
+        "sName": "Charilia",
+        "m": "保10争5还算超休闲工会吗"
+      },
+      {
+        "id": 63687279,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:15:05.938843384Z",
+        "cId": 567614,
+        "icon": "/chat_icons/og_jerry",
+        "color": "/name_colors/rainbow",
+        "sName": "M762",
+        "m": "{{0}}穿",
+        "linksMetadata": "[{\"linkType\":\"/chat_link_types/item\",\"itemHrid\":\"/items/anchorbound_plate_legs\",\"itemEnhancementLevel\":7,\"itemCount\":1}]"
+      },
+      {
+        "id": 63687285,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:15:08.467677243Z",
+        "cId": 518259,
+        "icon": "/chat_icons/golden_clover",
+        "color": "/name_colors/golden",
+        "sName": "HollUpLetHimCook",
+        "m": "保10争5还算超休闲工会吗"
+      },
+      {
+        "id": 63687291,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:15:10.367006777Z",
+        "cId": 669076,
+        "sName": "cxkk6666",
+        "m": "@Mrplus 长者粉丝工会吗"
+      },
+      {
+        "id": 63687309,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:15:19.284159803Z",
+        "cId": 671091,
+        "sName": "doudoulong",
+        "m": "请问，强化要怎么练？"
+      },
+      {
+        "id": 63687330,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:15:29.674768373Z",
+        "cId": 518259,
+        "icon": "/chat_icons/golden_clover",
+        "color": "/name_colors/golden",
+        "sName": "HollUpLetHimCook",
+        "m": "{{0}}用这个练级",
+        "linksMetadata": "[{\"linkType\":\"/chat_link_types/item\",\"itemHrid\":\"/items/coin\",\"itemCount\":6198106326}]"
+      },
+      {
+        "id": 63687345,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:15:35.713840174Z",
+        "cId": 518259,
+        "icon": "/chat_icons/golden_clover",
+        "color": "/name_colors/golden",
+        "sName": "HollUpLetHimCook",
+        "m": "其他的无所谓"
+      },
+      {
+        "id": 63687367,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:15:45.973570019Z",
+        "cId": 268851,
+        "icon": "/chat_icons/jackalope",
+        "color": "/name_colors/coral",
+        "sName": "LegendGGCN",
+        "m": "保10争5超休闲脚打工会招收单科140+或者战斗生活双130+选手 会内活跃会员众多 氛围友好 无强度焦虑 不踢活人 各种BUFF一应俱全 还有女装会长经常发福利"
+      },
+      {
+        "id": 63687368,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:15:47.129444487Z",
+        "cId": 518259,
+        "icon": "/chat_icons/golden_clover",
+        "color": "/name_colors/golden",
+        "sName": "HollUpLetHimCook",
+        "m": "这个是唯一需要考虑的东西"
+      },
+      {
+        "id": 63687371,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:15:48.111902235Z",
+        "cId": 567614,
+        "icon": "/chat_icons/og_jerry",
+        "color": "/name_colors/rainbow",
+        "sName": "M762",
+        "m": "6198个金币那很难了"
+      },
+      {
+        "id": 63687409,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:16:07.8014467Z",
+        "cId": 308940,
+        "icon": "/chat_icons/snowman",
+        "color": "/name_colors/fancy_blue",
+        "sName": "Bilqialn",
+        "m": "哪有女装"
+      },
+      {
+        "id": 63687414,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:16:11.238612387Z",
+        "cId": 518259,
+        "icon": "/chat_icons/golden_clover",
+        "color": "/name_colors/golden",
+        "sName": "HollUpLetHimCook",
+        "m": "怎么看的 是619 B M 金币"
+      },
+      {
+        "id": 63687423,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:16:15.088753949Z",
+        "cId": 567614,
+        "icon": "/chat_icons/og_jerry",
+        "color": "/name_colors/rainbow",
+        "sName": "M762",
+        "m": "{{0}}招人，我们大将军敢吃史",
+        "linksMetadata": "[{\"linkType\":\"/chat_link_types/guild\",\"guildId\":3400,\"guildName\":\"LV\"}]"
+      },
+      {
+        "id": 63687426,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:16:16.180393083Z",
+        "cId": 518259,
+        "icon": "/chat_icons/golden_clover",
+        "color": "/name_colors/golden",
+        "sName": "HollUpLetHimCook",
+        "m": "BM！"
+      },
+      {
+        "id": 63687477,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:16:47.89362234Z",
+        "cId": 518259,
+        "icon": "/chat_icons/golden_clover",
+        "color": "/name_colors/golden",
+        "sName": "HollUpLetHimCook",
+        "m": "招人 私信我 直接申请 我们隔壁公会会长会吃石！{{0}}",
+        "linksMetadata": "[{\"linkType\":\"/chat_link_types/guild\",\"guildId\":3364,\"guildName\":\"Idle Gold Rush\"}]"
+      },
+      {
+        "id": 63687539,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:17:20.395526965Z",
+        "cId": 567614,
+        "icon": "/chat_icons/og_jerry",
+        "color": "/name_colors/rainbow",
+        "sName": "M762",
+        "m": "你们隔壁是哪个公会敢问"
+      },
+      {
+        "id": 63687548,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:17:25.890764449Z",
+        "cId": 518259,
+        "icon": "/chat_icons/golden_clover",
+        "color": "/name_colors/golden",
+        "sName": "HollUpLetHimCook",
+        "m": "LV"
+      },
+      {
+        "id": 63687556,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:17:29.010569243Z",
+        "cId": 567614,
+        "icon": "/chat_icons/og_jerry",
+        "color": "/name_colors/rainbow",
+        "sName": "M762",
+        "m": "？"
+      },
+      {
+        "id": 63687568,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:17:34.323869845Z",
+        "cId": 518259,
+        "icon": "/chat_icons/golden_clover",
+        "color": "/name_colors/golden",
+        "sName": "HollUpLetHimCook",
+        "m": "嘻嘻"
+      },
+      {
+        "id": 63687579,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:17:44.849404477Z",
+        "cId": 268851,
+        "icon": "/chat_icons/jackalope",
+        "color": "/name_colors/coral",
+        "sName": "LegendGGCN",
+        "m": "@Charilia 超休闲的 随便打就保10争5了"
+      },
+      {
+        "id": 63687585,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:17:48.985860142Z",
+        "cId": 567614,
+        "icon": "/chat_icons/og_jerry",
+        "color": "/name_colors/rainbow",
+        "sName": "M762",
+        "m": "{{0}}招人，隔壁公会会长敢女装吃史",
+        "linksMetadata": "[{\"linkType\":\"/chat_link_types/guild\",\"guildId\":3400,\"guildName\":\"LV\"}]"
+      },
+      {
+        "id": 63687597,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:17:56.335140488Z",
+        "cId": 567614,
+        "icon": "/chat_icons/og_jerry",
+        "color": "/name_colors/rainbow",
+        "sName": "M762",
+        "m": "{::1_4}"
+      },
+      {
+        "id": 63687608,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:18:06.871853579Z",
+        "cId": 507956,
+        "icon": "/chat_icons/panda_paw",
+        "color": "/name_colors/rainbow",
+        "sName": "saeko",
+        "m": "！！！！！有没有要盾的QAQ"
+      },
+      {
+        "id": 63687611,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:18:08.073347715Z",
+        "cId": 575013,
+        "icon": "/chat_icons/santa_hat",
+        "color": "/name_colors/fancy_yellow",
+        "sName": "hexuyao",
+        "m": "{{0}}超休闲公会招人！很活跃，进来就给将军！",
+        "linksMetadata": "[{\"linkType\":\"/chat_link_types/guild\",\"guildId\":3507,\"guildName\":\"a legend cat\"}]"
+      },
+      {
+        "id": 63687620,
+        "chan": "/chat_channel_types/chinese",
+        "t": "2026-07-14T03:18:12.904696121Z",
+        "cId": 353318,
+        "gm": "ironcow",
+        "icon": "/chat_icons/golden_biceps",
+        "color": "/name_colors/golden",
+        "sName": "HuangTieNiu",
+        "m": "无图无真相"
       }
     ],
     "/chat_channel_types/help": [
@@ -8421,7 +8433,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2026-01-20T00:30:14Z",
-      "inactiveTime": "2026-07-14T03:14:56.023822193Z"
+      "inactiveTime": "2026-07-14T03:18:15.904070122Z"
     }
   },
   "blockedCharacterMap": {},
@@ -8549,16 +8561,6 @@
   },
   "communityBuffs": [
     {
-      "id": 6642,
-      "hrid": "/community_buff_types/production_efficiency",
-      "experience": 1780,
-      "level": 14,
-      "startTime": "2026-07-14T01:02:05.365Z",
-      "expireTime": "2026-07-16T12:22:05.365Z",
-      "contributorsMetadata": "{\"DaBaiCai3\":20,\"Yuure1\":30,\"bananaout\":3400,\"laochen112\":110}",
-      "isDone": false
-    },
-    {
       "id": 4329,
       "hrid": "/community_buff_types/combat_drop_quantity",
       "experience": 442138.5,
@@ -8596,6 +8598,16 @@
       "startTime": "2026-07-14T00:34:34.636Z",
       "expireTime": "2026-07-14T14:47:34.636Z",
       "contributorsMetadata": "{\"CashoutCow\":17,\"GIuttong\":10,\"daliulian\":776,\"dididili\":40,\"mferguson54100\":10}",
+      "isDone": false
+    },
+    {
+      "id": 6642,
+      "hrid": "/community_buff_types/production_efficiency",
+      "experience": 1780,
+      "level": 14,
+      "startTime": "2026-07-14T01:02:05.365Z",
+      "expireTime": "2026-07-16T12:22:05.365Z",
+      "contributorsMetadata": "{\"DaBaiCai3\":20,\"Yuure1\":30,\"bananaout\":3400,\"laochen112\":110}",
       "isDone": false
     }
   ],
@@ -10436,7 +10448,7 @@
     "guildIconItemHrid": "",
     "guildIconTier": 0,
     "guildType": "standard",
-    "experience": 248117123.27235267,
+    "experience": 248118845.0644042,
     "level": 132,
     "noticeMessage": "🎮【群公告】🐮 佛系牛牛 · 快乐游戏 🌈\n👪【公会大家庭】\n🎉 Fish / Biu / BiuBiu / BiuBiuBiu 这四个工会是一个大家庭，阶下囚工会：WAKAKA 📌 QQ群：856720516，微信群请联系会长加入~\n\n🚫【群规守则】\n🔞 禁止内容:1)黄赌毒/暴力等违法内容;2)广告/诈骗/恶意链接;3)谣言/虚假信息;\n🤝 文明交流：尊重他人，禁止人身攻击；理性讨论，拒绝恶意贬低\n\n📚【战略资源库】\n📖 牛牛战术手册：https://feishu.cn/docx/KG9ddER6Eo2uPx...\n❓ 新手FAQ：https://feishu.cn/wiki/CaMdww091ioVvBk...\n🏛️ 公会专属文档：https://www.kdocs.cn/l/cmYtJcua6e3I\n🔒 温馨提示：公告内容请勿外传，闷声发大财~\n\n🎁【公会福利】\n💰 新人基金：3000K（游戏规则内礼物）\n🎯 750级奖励：6000K大礼包\n⚔️ 强化装备优惠\n🤲 游戏规则内的资源互助\n\n🌟 【公会荣耀榜】 🏆\n🧙‍♂️ 战斗榜-魔法\nsteam火法榜：Bestcow、Goodknight\nsteam水法榜：weilan、Catopia\nsteam自然榜：Rose、Vikala、meon、17s\n老登魔法：Lapapa、|allow、 Mfleaf 、NIUB1、heartfireX、xialu\n🏹 战斗榜-远程\nsteam远程榜：Leica、Cra、OwenGod、SumimiCupid、starhong、 Boluobao\n老登射手：lieren、 SXuan\n⚔️ 战斗榜-近战\nsteam近战榜：Touya、ss1985、baxz、Liqingzhu\n老登近战:poisonJerry\n\n🌟 【公会生活榜】 🏡\n🧪 炼金大师：tiantianci\n🔨 强化之神：lattete、DouShaL、luyh7\n\n🌟 【公会黑手党】 🎭\n领袖：xiaofushou（黑手）\n成员：xxxhf（小黑粉）lunatict（小黑蛋）sian123（黑伞）II999（渣男）\n🌟 【公会摸鱼党】🐟\n摸鱼老大：Touchfish\n摸鱼天才：Armarx\n🌟 【公会女大】👩‍🎓 \nyuesemenglong(不打瓦，爱哭），luoluo111（打瓦，声甜）\n🌟 【公会男同】👬\nmover,XiaoLangXD\n\n🌟 【工会明星】🤹\nvardy（叽里咕噜说什么呢你，我不做亡国奴！）\nWakaka（我是亡国奴，被fish俘虏！）\ntouya（话痨王者！压力大师！）\nmover（那还差很多，不确定可以来试试）\n\n\t\t\t\t———— 致各位fish成员, 🐌 牛牛是慢节奏游戏，希望大家保持佛系心态，💖 慢慢玩，玩开心才是最重要的~\n\n",
     "publicMessage": "",
@@ -10450,7 +10462,7 @@
     "currentTrialsData": "{\"points\":{\"/guild_combat/hedgehog\":1600,\"/guild_skilling/alchemy\":600,\"/guild_skilling/crafting\":1200},\"skilling\":{\"status\":\"completed\",\"parties\":{\"/guild_skilling/alchemy\":{\"highestTier\":5,\"budgetRemainingMs\":0,\"tierStartedAtMs\":1783904400531,\"highestTierReachedAtMs\":1783904197905,\"done\":true},\"/guild_skilling/crafting\":{\"highestTier\":11,\"budgetRemainingMs\":0,\"tierStartedAtMs\":1783904400770,\"highestTierReachedAtMs\":1783904370879,\"done\":true}}},\"combat\":{\"status\":\"completed\",\"parties\":{\"/guild_combat/chameleon\":{\"highestTier\":0,\"budgetRemainingMs\":3373892,\"tierStartedAtMs\":1783904626928,\"done\":true},\"/guild_combat/hedgehog\":{\"highestTier\":7,\"budgetRemainingMs\":1204929,\"tierStartedAtMs\":1783906800204,\"highestTierReachedAtMs\":1783906502394,\"done\":true}}},\"cooperativeRewardGranted\":true}",
     "trialScheduleHourOffset": 28,
     "createdAt": "2024-08-26T04:45:57Z",
-    "updatedAt": "2026-07-14T03:14:54.872684958Z"
+    "updatedAt": "2026-07-14T03:18:15.508267066Z"
   },
   "guildWeeklyTrialSet": {
     "skillHrids": [
@@ -10491,7 +10503,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 3736780.714579175,
+      "guildExperience": 3736820.185261092,
       "joinTime": "2025-11-03T04:09:25.728Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -10504,7 +10516,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 19830.15947357553,
+      "weeklyGuildExperience": 19869.630155491766,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "88907": {
@@ -10513,7 +10525,7 @@
       "inviterCharacterID": 217650,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 3461033.3976996373,
+      "guildExperience": 3461065.523845679,
       "joinTime": "2025-09-09T13:10:38.536Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/alchemy",
@@ -10526,7 +10538,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"tank\"}",
       "lifetimeSkillingTrialTiersBeaten": 4,
       "lifetimeCombatTrialTiersBeaten": 7,
-      "weeklyGuildExperience": 21634.1674799929,
+      "weeklyGuildExperience": 21666.29362603572,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "88914": {
@@ -10535,7 +10547,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2643536.0778614543,
+      "guildExperience": 2643564.6086339722,
       "joinTime": "2025-11-04T05:40:10.631Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/crafting",
@@ -10548,7 +10560,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 5,
       "lifetimeCombatTrialTiersBeaten": 7,
-      "weeklyGuildExperience": 12079.3704487839,
+      "weeklyGuildExperience": 12107.901221302054,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "89463": {
@@ -10557,7 +10569,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 4234338.339265165,
+      "guildExperience": 4234377.107073871,
       "joinTime": "2025-06-02T12:42:35.1Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -10570,7 +10582,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 16847.041558818808,
+      "weeklyGuildExperience": 16885.80936752604,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "90795": {
@@ -10579,7 +10591,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 4416775.334191868,
+      "guildExperience": 4416815.757079004,
       "joinTime": "2025-09-10T01:21:33.054Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -10592,7 +10604,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 5,
-      "weeklyGuildExperience": 19582.103346332573,
+      "weeklyGuildExperience": 19622.526233468077,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "90959": {
@@ -10601,7 +10613,7 @@
       "inviterCharacterID": 93832,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 4804911.938958832,
+      "guildExperience": 4804950.426378996,
       "joinTime": "2025-03-11T14:19:31.225Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -10614,7 +10626,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 18110.24194414802,
+      "weeklyGuildExperience": 18148.72936431022,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "91284": {
@@ -10623,7 +10635,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 3317701.6247116695,
+      "guildExperience": 3317727.3513752543,
       "joinTime": "2025-01-14T08:38:53.541Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -10636,7 +10648,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 11594.591061290712,
+      "weeklyGuildExperience": 11620.317724876375,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "93832": {
@@ -10645,7 +10657,7 @@
       "inviterCharacterID": 142162,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 996071.2814178814,
+      "guildExperience": 996078.0024462609,
       "joinTime": "2026-02-27T05:36:17.818Z",
       "leaveTime": "2025-10-31T01:15:23.444Z",
       "signedUpSkillingTrialHrid": "",
@@ -10658,7 +10670,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 2619.42333815939,
+      "weeklyGuildExperience": 2626.14436653883,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "96008": {
@@ -10667,7 +10679,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 5594306.381128186,
+      "guildExperience": 5594348.017151406,
       "joinTime": "2025-05-30T09:47:47.777Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/crafting",
@@ -10680,7 +10692,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 11,
       "lifetimeCombatTrialTiersBeaten": 7,
-      "weeklyGuildExperience": 21428.531762419752,
+      "weeklyGuildExperience": 21470.16778564077,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "98335": {
@@ -10689,7 +10701,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 993090.6792608877,
+      "guildExperience": 993109.9137256657,
       "joinTime": "2026-03-23T11:21:52.175Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/alchemy",
@@ -10702,7 +10714,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 3,
       "lifetimeCombatTrialTiersBeaten": 7,
-      "weeklyGuildExperience": 10015.142493681898,
+      "weeklyGuildExperience": 10034.376958459845,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "99064": {
@@ -10711,7 +10723,7 @@
       "inviterCharacterID": 93832,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 3046900.488261453,
+      "guildExperience": 3046918.781264424,
       "joinTime": "2024-10-11T05:44:34.913Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -10724,7 +10736,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 9623.206211016186,
+      "weeklyGuildExperience": 9641.499213987358,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "99394": {
@@ -10733,7 +10745,7 @@
       "inviterCharacterID": 93832,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2914937.2697358024,
+      "guildExperience": 2914957.393257989,
       "joinTime": "2024-10-11T05:45:02.095Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -10746,7 +10758,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 10726.648155188084,
+      "weeklyGuildExperience": 10746.771677374365,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "100863": {
@@ -10755,7 +10767,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 4131008.7944768304,
+      "guildExperience": 4131040.197889729,
       "joinTime": "2025-06-07T05:12:07.956Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -10768,7 +10780,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 15657.691293241502,
+      "weeklyGuildExperience": 15689.094706139567,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "102131": {
@@ -10777,7 +10789,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 4228172.242218255,
+      "guildExperience": 4228190.419747829,
       "joinTime": "2025-10-10T14:46:25.317Z",
       "leaveTime": "2025-09-21T15:34:40.873Z",
       "signedUpSkillingTrialHrid": "",
@@ -10790,7 +10802,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 9562.588818371774,
+      "weeklyGuildExperience": 9580.766347946168,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "105227": {
@@ -10799,7 +10811,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2550605.5083217043,
+      "guildExperience": 2550632.841339507,
       "joinTime": "2025-12-23T12:06:48.806Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/alchemy",
@@ -10812,7 +10824,7 @@
       "trialRolePrefs": "{\"/guild_combat/chameleon\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 4,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 16401.279076467523,
+      "weeklyGuildExperience": 16428.612094270713,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "108345": {
@@ -10821,7 +10833,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 4225099.501572394,
+      "guildExperience": 4225143.831939082,
       "joinTime": "2025-09-16T02:53:52.166Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/crafting",
@@ -10834,7 +10846,7 @@
       "trialRolePrefs": "{\"/guild_combat/chameleon\":\"damage_dealer\",\"/guild_combat/hedgehog\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 10,
       "lifetimeCombatTrialTiersBeaten": 7,
-      "weeklyGuildExperience": 18393.55264173228,
+      "weeklyGuildExperience": 18437.883008421963,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "112749": {
@@ -10843,7 +10855,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2719756.369540799,
+      "guildExperience": 2719779.7126534455,
       "joinTime": "2025-11-24T12:36:24.297Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -10856,7 +10868,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 10666.380172945743,
+      "weeklyGuildExperience": 10689.723285591845,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "112972": {
@@ -10865,7 +10877,7 @@
       "inviterCharacterID": 93832,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2931397.553251997,
+      "guildExperience": 2931417.7803405584,
       "joinTime": "2024-09-26T09:04:11.429Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -10878,7 +10890,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 6,
-      "weeklyGuildExperience": 10412.763139748105,
+      "weeklyGuildExperience": 10432.990228308685,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "113438": {
@@ -10887,7 +10899,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 4525364.909525011,
+      "guildExperience": 4525396.862554261,
       "joinTime": "2025-06-20T02:01:13.617Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -10900,7 +10912,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 4,
-      "weeklyGuildExperience": 23527.128532191044,
+      "weeklyGuildExperience": 23559.08156144119,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "115720": {
@@ -10909,7 +10921,7 @@
       "inviterCharacterID": 93832,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 4093894.071996264,
+      "guildExperience": 4093919.66771626,
       "joinTime": "2024-10-17T02:05:46.908Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -10922,7 +10934,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 12470.738070939527,
+      "weeklyGuildExperience": 12496.333790935023,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "118114": {
@@ -10931,7 +10943,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2069662.6131718685,
+      "guildExperience": 2069664.8917558675,
       "joinTime": "2025-09-25T02:17:10.88Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/crafting",
@@ -10944,7 +10956,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 5,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 1017.7855313588901,
+      "weeklyGuildExperience": 1020.0641153590014,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "119310": {
@@ -10953,7 +10965,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 1277645.92274267,
+      "guildExperience": 1277666.8865498262,
       "joinTime": "2025-12-23T12:07:46.608Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -10966,7 +10978,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 9786.139403979298,
+      "weeklyGuildExperience": 9807.103211135385,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "119621": {
@@ -10997,7 +11009,7 @@
       "inviterCharacterID": 102131,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 4316486.1117409915,
+      "guildExperience": 4316515.329379218,
       "joinTime": "2024-10-18T02:36:49.509Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/crafting",
@@ -11010,7 +11022,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"support\"}",
       "lifetimeSkillingTrialTiersBeaten": 7,
       "lifetimeCombatTrialTiersBeaten": 7,
-      "weeklyGuildExperience": 19021.170889157154,
+      "weeklyGuildExperience": 19050.388527384624,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "125258": {
@@ -11019,7 +11031,7 @@
       "inviterCharacterID": 93832,
       "role": "leader",
       "status": "joined",
-      "guildExperience": 4760161.772546589,
+      "guildExperience": 4760198.770211835,
       "joinTime": "2024-11-17T04:48:06.166Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/alchemy",
@@ -11032,7 +11044,7 @@
       "trialRolePrefs": "{\"/guild_combat/chameleon\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 4,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 17409.248409839664,
+      "weeklyGuildExperience": 17446.246075085677,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "127400": {
@@ -11041,7 +11053,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2491054.739445863,
+      "guildExperience": 2491072.633581063,
       "joinTime": "2025-01-15T16:03:35.697Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -11054,7 +11066,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 8942.81856647109,
+      "weeklyGuildExperience": 8960.712701671111,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "133426": {
@@ -11063,7 +11075,7 @@
       "inviterCharacterID": 125258,
       "role": "general",
       "status": "joined",
-      "guildExperience": 3954028.7487132517,
+      "guildExperience": 3954053.897687266,
       "joinTime": "2025-10-10T13:22:40.465Z",
       "leaveTime": "2025-09-09T13:01:12Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/crafting",
@@ -11076,7 +11088,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"support\"}",
       "lifetimeSkillingTrialTiersBeaten": 7,
       "lifetimeCombatTrialTiersBeaten": 7,
-      "weeklyGuildExperience": 13707.839217819297,
+      "weeklyGuildExperience": 13732.988191833578,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "133715": {
@@ -11085,7 +11097,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2280371.8592030196,
+      "guildExperience": 2280413.6180231976,
       "joinTime": "2025-12-23T12:27:34.369Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/alchemy",
@@ -11098,7 +11110,7 @@
       "trialRolePrefs": "{\"/guild_combat/chameleon\":\"damage_dealer\",\"/guild_combat/hedgehog\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 5,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 20198.276875904554,
+      "weeklyGuildExperience": 20240.035696082585,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "135507": {
@@ -11107,7 +11119,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2849084.9760123924,
+      "guildExperience": 2849109.2035628725,
       "joinTime": "2025-01-14T08:06:50.208Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/crafting",
@@ -11120,7 +11132,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"support\"}",
       "lifetimeSkillingTrialTiersBeaten": 9,
       "lifetimeCombatTrialTiersBeaten": 7,
-      "weeklyGuildExperience": 10494.320029254011,
+      "weeklyGuildExperience": 10518.5475797339,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "135544": {
@@ -11129,7 +11141,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2903879.0854894444,
+      "guildExperience": 2903901.330657633,
       "joinTime": "2025-05-28T04:07:48.715Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -11142,7 +11154,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 9049.218801583274,
+      "weeklyGuildExperience": 9071.463969771847,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "142162": {
@@ -11151,7 +11163,7 @@
       "inviterCharacterID": 112972,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2568715.431978443,
+      "guildExperience": 2568733.7937421785,
       "joinTime": "2025-01-21T06:47:09.764Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/alchemy",
@@ -11164,7 +11176,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 1,
       "lifetimeCombatTrialTiersBeaten": 7,
-      "weeklyGuildExperience": 9431.526040682762,
+      "weeklyGuildExperience": 9449.887804416625,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "142883": {
@@ -11173,7 +11185,7 @@
       "inviterCharacterID": 93832,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 4388719.29950677,
+      "guildExperience": 4388759.628749089,
       "joinTime": "2025-02-09T09:46:05.769Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -11186,7 +11198,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 21097.079903512677,
+      "weeklyGuildExperience": 21137.40914583179,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "152005": {
@@ -11195,7 +11207,7 @@
       "inviterCharacterID": 148445,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 1534003.6891391187,
+      "guildExperience": 1534012.3279212306,
       "joinTime": "2025-03-17T16:11:17.697Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/crafting",
@@ -11208,7 +11220,7 @@
       "trialRolePrefs": "{\"/guild_combat/chameleon\":\"damage_dealer\",\"/guild_combat/hedgehog\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 11,
       "lifetimeCombatTrialTiersBeaten": 7,
-      "weeklyGuildExperience": 4980.603987807039,
+      "weeklyGuildExperience": 4989.242769918921,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "152755": {
@@ -11239,7 +11251,7 @@
       "inviterCharacterID": 163306,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2232566.4172765594,
+      "guildExperience": 2232582.629080248,
       "joinTime": "2025-04-21T03:38:24.505Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -11252,7 +11264,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 16849.890846285787,
+      "weeklyGuildExperience": 16866.10264997479,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "154227": {
@@ -11261,7 +11273,7 @@
       "inviterCharacterID": 102131,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2963544.273808908,
+      "guildExperience": 2963565.9636171553,
       "joinTime": "2025-04-03T06:43:07.187Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/crafting",
@@ -11274,7 +11286,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 7,
       "lifetimeCombatTrialTiersBeaten": 7,
-      "weeklyGuildExperience": 10885.569145652764,
+      "weeklyGuildExperience": 10907.25895390033,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "154915": {
@@ -11283,7 +11295,7 @@
       "inviterCharacterID": 102131,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 4082722.701041052,
+      "guildExperience": 4082750.0528368307,
       "joinTime": "2025-05-19T11:53:56.241Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -11296,7 +11308,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 12508.401881092055,
+      "weeklyGuildExperience": 12535.753676870332,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "159311": {
@@ -11305,7 +11317,7 @@
       "inviterCharacterID": 93832,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 1207598.4654895584,
+      "guildExperience": 1207608.409247845,
       "joinTime": "2025-03-11T14:40:12.949Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -11318,7 +11330,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 4942.565351035605,
+      "weeklyGuildExperience": 4952.509109322083,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "163306": {
@@ -11327,7 +11339,7 @@
       "inviterCharacterID": 93832,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2794337.3516330407,
+      "guildExperience": 2794358.0077419835,
       "joinTime": "2025-03-11T15:08:11.872Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -11340,7 +11352,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 10982.314908682312,
+      "weeklyGuildExperience": 11002.971017625297,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "164359": {
@@ -11349,7 +11361,7 @@
       "inviterCharacterID": 123359,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2678584.904705309,
+      "guildExperience": 2678603.7075151233,
       "joinTime": "2025-04-18T08:12:47.899Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -11362,7 +11374,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 9720.315809937936,
+      "weeklyGuildExperience": 9739.118619752868,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "165044": {
@@ -11371,7 +11383,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 1150824.5803306878,
+      "guildExperience": 1150885.334127126,
       "joinTime": "2026-07-13T00:19:13.339Z",
       "leaveTime": "2025-09-12T05:32:30.617Z",
       "signedUpSkillingTrialHrid": "",
@@ -11384,7 +11396,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 21238.678932334857,
+      "weeklyGuildExperience": 21299.432728773074,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "166800": {
@@ -11393,7 +11405,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 4799392.603240426,
+      "guildExperience": 4799433.117028993,
       "joinTime": "2025-04-24T04:36:15.393Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -11406,7 +11418,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 19063.83525283907,
+      "weeklyGuildExperience": 19104.349041407568,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "168729": {
@@ -11415,7 +11427,7 @@
       "inviterCharacterID": 93832,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 747092.3672862869,
+      "guildExperience": 747099.9960860683,
       "joinTime": "2025-04-28T08:29:48.996Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/crafting",
@@ -11428,7 +11440,7 @@
       "trialRolePrefs": "{\"/guild_combat/chameleon\":\"damage_dealer\",\"/guild_combat/hedgehog\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 7,
       "lifetimeCombatTrialTiersBeaten": 7,
-      "weeklyGuildExperience": 2543.134000172662,
+      "weeklyGuildExperience": 2550.7627999541046,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "168746": {
@@ -11437,7 +11449,7 @@
       "inviterCharacterID": 93832,
       "role": "general",
       "status": "joined",
-      "guildExperience": 5977318.174469071,
+      "guildExperience": 5977375.803832927,
       "joinTime": "2025-03-20T15:50:24.228Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -11450,7 +11462,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"support\"}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 4,
-      "weeklyGuildExperience": 20504.8385183191,
+      "weeklyGuildExperience": 20562.467882174464,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "170218": {
@@ -11459,7 +11471,7 @@
       "inviterCharacterID": 165044,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 1062076.5672835587,
+      "guildExperience": 1062134.1622623538,
       "joinTime": "2026-07-13T02:05:29.833Z",
       "leaveTime": "2025-09-12T05:27:50.552Z",
       "signedUpSkillingTrialHrid": "",
@@ -11472,7 +11484,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 18819.948825983975,
+      "weeklyGuildExperience": 18877.543804779023,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "170696": {
@@ -11481,7 +11493,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2791772.577103217,
+      "guildExperience": 2791797.782815014,
       "joinTime": "2025-11-03T04:08:13.367Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/crafting",
@@ -11494,7 +11506,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 7,
       "lifetimeCombatTrialTiersBeaten": 7,
-      "weeklyGuildExperience": 14432.32513129329,
+      "weeklyGuildExperience": 14457.530843090051,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "172519": {
@@ -11503,7 +11515,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 504425.51081517735,
+      "guildExperience": 504428.92157517705,
       "joinTime": "2025-07-24T10:12:32.24Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/alchemy",
@@ -11516,7 +11528,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 3,
       "lifetimeCombatTrialTiersBeaten": 7,
-      "weeklyGuildExperience": 1716.415149903892,
+      "weeklyGuildExperience": 1719.8259099035258,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "174454": {
@@ -11547,7 +11559,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 4412925.152499871,
+      "guildExperience": 4412950.060877159,
       "joinTime": "2025-04-18T03:07:21.554Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -11560,7 +11572,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 3,
-      "weeklyGuildExperience": 17147.205670397805,
+      "weeklyGuildExperience": 17172.114047686624,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "179773": {
@@ -11569,7 +11581,7 @@
       "inviterCharacterID": 166800,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 4796268.722109476,
+      "guildExperience": 4796309.556530335,
       "joinTime": "2025-06-07T02:41:27.59Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -11582,7 +11594,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"support\"}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 2,
-      "weeklyGuildExperience": 21998.08814282316,
+      "weeklyGuildExperience": 22038.922563682496,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "180927": {
@@ -11591,7 +11603,7 @@
       "inviterCharacterID": 93832,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2665990.656490086,
+      "guildExperience": 2666009.895279165,
       "joinTime": "2025-03-13T13:05:45.358Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -11604,7 +11616,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 9078.833509825736,
+      "weeklyGuildExperience": 9098.072298904926,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "184188": {
@@ -11613,7 +11625,7 @@
       "inviterCharacterID": 93832,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2301005.4745320957,
+      "guildExperience": 2301026.5495788055,
       "joinTime": "2025-03-20T15:01:13.857Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -11626,7 +11638,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 10726.982859449872,
+      "weeklyGuildExperience": 10748.057906159409,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "185331": {
@@ -11635,7 +11647,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2111982.3362139054,
+      "guildExperience": 2112003.694697415,
       "joinTime": "2025-11-12T12:03:31.166Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/alchemy",
@@ -11648,7 +11660,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"support\"}",
       "lifetimeSkillingTrialTiersBeaten": 2,
       "lifetimeCombatTrialTiersBeaten": 7,
-      "weeklyGuildExperience": 9530.44168574618,
+      "weeklyGuildExperience": 9551.800169256196,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "198505": {
@@ -11657,7 +11669,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2491104.617271301,
+      "guildExperience": 2491106.3337168004,
       "joinTime": "2025-10-26T12:35:11.849Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -11670,7 +11682,7 @@
       "trialRolePrefs": "{\"/guild_combat/chameleon\":\"tank\",\"/guild_combat/hedgehog\":\"tank\"}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 7,
-      "weeklyGuildExperience": 2519.101596391493,
+      "weeklyGuildExperience": 2520.818041891867,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "198628": {
@@ -11679,7 +11691,7 @@
       "inviterCharacterID": 115720,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2457008.5757715576,
+      "guildExperience": 2457027.787201772,
       "joinTime": "2025-04-18T00:33:08.944Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/crafting",
@@ -11692,7 +11704,7 @@
       "trialRolePrefs": "{\"/guild_combat/chameleon\":\"\",\"/guild_combat/hedgehog\":\"support\"}",
       "lifetimeSkillingTrialTiersBeaten": 9,
       "lifetimeCombatTrialTiersBeaten": 7,
-      "weeklyGuildExperience": 9959.720594234006,
+      "weeklyGuildExperience": 9978.932024447931,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "206892": {
@@ -11701,7 +11713,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 4443282.629620566,
+      "guildExperience": 4443340.241791891,
       "joinTime": "2025-10-31T01:23:07.585Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -11714,7 +11726,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 6,
-      "weeklyGuildExperience": 20498.719081438077,
+      "weeklyGuildExperience": 20556.331252762804,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "208440": {
@@ -11723,7 +11735,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 3777168.517792156,
+      "guildExperience": 3777187.261911621,
       "joinTime": "2025-07-21T01:18:05.302Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -11736,7 +11748,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 11444.007166245441,
+      "weeklyGuildExperience": 11462.75128570936,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "217650": {
@@ -11745,7 +11757,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 605668.5715705808,
+      "guildExperience": 605693.242606821,
       "joinTime": "2026-07-13T01:08:01.794Z",
       "leaveTime": "2025-09-09T15:42:18.399Z",
       "signedUpSkillingTrialHrid": "",
@@ -11758,7 +11770,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 11328.612460504395,
+      "weeklyGuildExperience": 11353.283496744498,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "219832": {
@@ -11767,7 +11779,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 611936.2043626036,
+      "guildExperience": 611944.3265361113,
       "joinTime": "2026-03-23T11:20:15.865Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/crafting",
@@ -11780,7 +11792,7 @@
       "trialRolePrefs": "{\"/guild_combat/chameleon\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 8,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 6197.6842092549305,
+      "weeklyGuildExperience": 6205.806382761672,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "226574": {
@@ -11789,7 +11801,7 @@
       "inviterCharacterID": 168746,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 4232892.475310632,
+      "guildExperience": 4232930.039580368,
       "joinTime": "2025-07-08T10:11:52.859Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/crafting",
@@ -11802,7 +11814,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 11,
       "lifetimeCombatTrialTiersBeaten": 7,
-      "weeklyGuildExperience": 17675.86000334174,
+      "weeklyGuildExperience": 17713.42427307803,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "231259": {
@@ -11811,7 +11823,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 3329651.3979960447,
+      "guildExperience": 3329688.985370095,
       "joinTime": "2025-08-30T01:28:50.179Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/crafting",
@@ -11824,7 +11836,7 @@
       "trialRolePrefs": "{\"/guild_combat/chameleon\":\"damage_dealer\",\"/guild_combat/hedgehog\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 10,
       "lifetimeCombatTrialTiersBeaten": 7,
-      "weeklyGuildExperience": 15750.766800808266,
+      "weeklyGuildExperience": 15788.354174858403,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "246876": {
@@ -11833,7 +11845,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 1417281.3427164517,
+      "guildExperience": 1417311.747982678,
       "joinTime": "2026-03-23T11:20:41.366Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/crafting",
@@ -11846,7 +11858,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"support\"}",
       "lifetimeSkillingTrialTiersBeaten": 11,
       "lifetimeCombatTrialTiersBeaten": 7,
-      "weeklyGuildExperience": 15007.192491511807,
+      "weeklyGuildExperience": 15037.597757738096,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "251689": {
@@ -11855,7 +11867,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 3232369.8365879757,
+      "guildExperience": 3232393.8281953833,
       "joinTime": "2025-05-22T10:30:05.868Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/crafting",
@@ -11868,7 +11880,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"support\"}",
       "lifetimeSkillingTrialTiersBeaten": 9,
       "lifetimeCombatTrialTiersBeaten": 7,
-      "weeklyGuildExperience": 11356.924951268695,
+      "weeklyGuildExperience": 11380.916558676265,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "259408": {
@@ -11877,7 +11889,7 @@
       "inviterCharacterID": 168746,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2487919.2083730893,
+      "guildExperience": 2487940.1289534643,
       "joinTime": "2025-05-04T17:44:06.223Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -11890,7 +11902,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"\"}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 4,
-      "weeklyGuildExperience": 9530.685183794982,
+      "weeklyGuildExperience": 9551.605764169226,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "262693": {
@@ -11921,7 +11933,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2145825.030163226,
+      "guildExperience": 2145851.8529839916,
       "joinTime": "2025-12-23T12:07:57.348Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "/guild_skilling/crafting",
@@ -11934,7 +11946,7 @@
       "trialRolePrefs": "{\"/guild_combat/chameleon\":\"damage_dealer\",\"/guild_combat/hedgehog\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 6,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 13382.456646805767,
+      "weeklyGuildExperience": 13409.279467570783,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "296972": {
@@ -11965,7 +11977,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 202774.9679401772,
+      "guildExperience": 202794.01852472997,
       "joinTime": "2026-06-14T16:23:24.011Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -11978,7 +11990,7 @@
       "trialRolePrefs": "{}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 0,
-      "weeklyGuildExperience": 6576.869803547217,
+      "weeklyGuildExperience": 6595.920388099982,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     },
     "461223": {
@@ -11987,7 +11999,7 @@
       "inviterCharacterID": 125258,
       "role": "officer",
       "status": "joined",
-      "guildExperience": 2820631.6358972695,
+      "guildExperience": 2820672.233838357,
       "joinTime": "2025-11-12T13:23:57.913Z",
       "leaveTime": "0001-01-01T00:00:00Z",
       "signedUpSkillingTrialHrid": "",
@@ -12000,7 +12012,7 @@
       "trialRolePrefs": "{\"/guild_combat/hedgehog\":\"damage_dealer\"}",
       "lifetimeSkillingTrialTiersBeaten": 0,
       "lifetimeCombatTrialTiersBeaten": 3,
-      "weeklyGuildExperience": 17544.806163297628,
+      "weeklyGuildExperience": 17585.404104385354,
       "weeklyGuildExperienceWeekStartAt": "2026-07-10T00:00:00Z"
     }
   },
@@ -12020,7 +12032,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2024-03-11T16:36:22Z",
-      "inactiveTime": "2026-07-14T03:14:56.024006664Z"
+      "inactiveTime": "2026-07-14T03:18:15.90437464Z"
     },
     "88907": {
       "name": "yeshuling",
@@ -12037,7 +12049,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2024-03-12T00:54:58Z",
-      "inactiveTime": "2026-07-14T03:14:56.024054726Z"
+      "inactiveTime": "2026-07-14T03:18:15.904314406Z"
     },
     "88914": {
       "name": "WishT0day",
@@ -12054,7 +12066,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2024-03-12T01:51:38Z",
-      "inactiveTime": "2026-07-14T03:14:56.024044666Z"
+      "inactiveTime": "2026-07-14T03:18:15.904317426Z"
     },
     "89463": {
       "name": "allow",
@@ -12071,7 +12083,7 @@
       "hideOnlineStatus": true,
       "isOnline": false,
       "createdAt": "2024-03-15T02:30:41Z",
-      "inactiveTime": "2026-07-14T03:14:56.024080128Z"
+      "inactiveTime": "2026-07-14T03:18:15.904336767Z"
     },
     "90795": {
       "name": "Sleepyyy",
@@ -12088,7 +12100,7 @@
       "hideOnlineStatus": false,
       "isOnline": true,
       "createdAt": "2024-03-21T02:54:01Z",
-      "inactiveTime": "2026-07-14T03:14:56.02412525Z"
+      "inactiveTime": "2026-07-14T03:18:15.90438275Z"
     },
     "90959": {
       "name": "xialu",
@@ -12105,7 +12117,7 @@
       "hideOnlineStatus": true,
       "isOnline": false,
       "createdAt": "2024-03-21T11:44:10Z",
-      "inactiveTime": "2026-07-14T03:14:56.024073778Z"
+      "inactiveTime": "2026-07-14T03:18:15.904234412Z"
     },
     "91284": {
       "name": "eddiare",
@@ -12122,7 +12134,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2024-03-22T14:36:53Z",
-      "inactiveTime": "2026-07-14T03:14:56.024064807Z"
+      "inactiveTime": "2026-07-14T03:18:15.904290765Z"
     },
     "93832": {
       "name": "TouchFish",
@@ -12139,7 +12151,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2024-04-01T06:18:10Z",
-      "inactiveTime": "2026-07-14T03:14:56.024133661Z"
+      "inactiveTime": "2026-07-14T03:18:15.904394981Z"
     },
     "96008": {
       "name": "Lapapa",
@@ -12156,7 +12168,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2024-04-13T09:59:56Z",
-      "inactiveTime": "2026-07-14T03:14:56.024091419Z"
+      "inactiveTime": "2026-07-14T03:18:15.904237482Z"
     },
     "98335": {
       "name": "yahaha00",
@@ -12173,7 +12185,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2024-04-29T14:36:03Z",
-      "inactiveTime": "2026-07-14T03:14:56.024027955Z"
+      "inactiveTime": "2026-07-14T03:18:15.90438489Z"
     },
     "99064": {
       "name": "Polmes",
@@ -12190,7 +12202,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2024-05-05T10:52:44Z",
-      "inactiveTime": "2026-07-14T03:14:56.024082228Z"
+      "inactiveTime": "2026-07-14T03:18:15.904350468Z"
     },
     "99394": {
       "name": "kaclr",
@@ -12207,7 +12219,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2024-05-07T13:36:17Z",
-      "inactiveTime": "2026-07-14T03:14:56.024042566Z"
+      "inactiveTime": "2026-07-14T03:18:15.904187789Z"
     },
     "100863": {
       "name": "Mfleaf",
@@ -12224,7 +12236,7 @@
       "hideOnlineStatus": true,
       "isOnline": false,
       "createdAt": "2024-05-19T11:31:47Z",
-      "inactiveTime": "2026-07-14T03:14:56.023960911Z"
+      "inactiveTime": "2026-07-14T03:18:15.904296655Z"
     },
     "102131": {
       "name": "HeartFireX",
@@ -12241,7 +12253,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2024-05-29T13:58:52Z",
-      "inactiveTime": "2026-07-14T03:14:56.024068527Z"
+      "inactiveTime": "2026-07-14T03:18:15.904294395Z"
     },
     "105227": {
       "name": "hanshu",
@@ -12258,7 +12270,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2024-06-08T05:34:44Z",
-      "inactiveTime": "2026-07-14T03:14:56.024024785Z"
+      "inactiveTime": "2026-07-14T03:18:15.904352759Z"
     },
     "108345": {
       "name": "beinliu",
@@ -12275,7 +12287,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2024-06-25T10:01:26Z",
-      "inactiveTime": "2026-07-14T03:14:56.024131011Z"
+      "inactiveTime": "2026-07-14T03:18:15.904339448Z"
     },
     "112749": {
       "name": "cowhorse11",
@@ -12292,7 +12304,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2024-07-30T06:06:39Z",
-      "inactiveTime": "2026-07-14T03:14:56.024051856Z"
+      "inactiveTime": "2026-07-14T03:18:15.904240982Z"
     },
     "112972": {
       "name": "poisonJerry",
@@ -12309,7 +12321,7 @@
       "hideOnlineStatus": false,
       "isOnline": true,
       "createdAt": "2024-07-31T06:49:57Z",
-      "inactiveTime": "2026-07-14T03:14:56.024021055Z"
+      "inactiveTime": "2026-07-14T03:18:15.904307056Z"
     },
     "113438": {
       "name": "BronyaMeow",
@@ -12326,7 +12338,7 @@
       "hideOnlineStatus": true,
       "isOnline": false,
       "createdAt": "2024-08-02T02:21:11Z",
-      "inactiveTime": "2026-07-14T03:14:56.023991203Z"
+      "inactiveTime": "2026-07-14T03:18:15.904389771Z"
     },
     "115720": {
       "name": "SXuan",
@@ -12343,7 +12355,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2024-08-10T02:49:42Z",
-      "inactiveTime": "2026-07-14T03:14:56.02394231Z"
+      "inactiveTime": "2026-07-14T03:18:15.904219781Z"
     },
     "118114": {
       "name": "DaBaooo",
@@ -12360,7 +12372,7 @@
       "hideOnlineStatus": false,
       "isOnline": true,
       "createdAt": "2024-08-21T11:16:56Z",
-      "inactiveTime": "2026-07-14T03:14:56.024059877Z"
+      "inactiveTime": "2026-07-14T03:18:15.904299355Z"
     },
     "119310": {
       "name": "KD777",
@@ -12377,7 +12389,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2024-08-29T08:31:22Z",
-      "inactiveTime": "2026-07-14T03:14:56.02411634Z"
+      "inactiveTime": "2026-07-14T03:18:15.904272854Z"
     },
     "119621": {
       "name": "lieren",
@@ -12411,7 +12423,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2024-09-30T03:38:25Z",
-      "inactiveTime": "2026-07-14T03:14:56.024071847Z"
+      "inactiveTime": "2026-07-14T03:18:15.904195869Z"
     },
     "125258": {
       "name": "Alocylo",
@@ -12428,7 +12440,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2024-10-16T08:08:43Z",
-      "inactiveTime": "2026-07-14T03:14:56.024031645Z"
+      "inactiveTime": "2026-07-14T03:18:15.904347898Z"
     },
     "127400": {
       "name": "DNSAM",
@@ -12445,7 +12457,7 @@
       "hideOnlineStatus": false,
       "isOnline": true,
       "createdAt": "2024-10-31T06:25:12Z",
-      "inactiveTime": "2026-07-14T03:14:56.023997443Z"
+      "inactiveTime": "2026-07-14T03:18:15.90437724Z"
     },
     "133426": {
       "name": "NIUB1",
@@ -12462,7 +12474,7 @@
       "hideOnlineStatus": true,
       "isOnline": false,
       "createdAt": "2024-12-09T11:35:46Z",
-      "inactiveTime": "2026-07-14T03:14:56.02394649Z"
+      "inactiveTime": "2026-07-14T03:18:15.904397561Z"
     },
     "133715": {
       "name": "huahua",
@@ -12477,9 +12489,9 @@
       "hasMooPass": true,
       "actionType": "/action_types/combat",
       "hideOnlineStatus": false,
-      "isOnline": true,
+      "isOnline": false,
       "createdAt": "2024-12-10T10:41:44Z",
-      "inactiveTime": "2026-07-14T03:14:56.024061857Z"
+      "inactiveTime": "2026-07-14T03:18:15.904361949Z"
     },
     "135507": {
       "name": "CRUZ",
@@ -12496,7 +12508,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2024-12-21T01:53:39Z",
-      "inactiveTime": "2026-07-14T03:14:56.023981892Z"
+      "inactiveTime": "2026-07-14T03:18:15.9042078Z"
     },
     "135544": {
       "name": "EuroCatfish",
@@ -12513,7 +12525,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2024-12-21T08:56:58Z",
-      "inactiveTime": "2026-07-14T03:14:56.02411897Z"
+      "inactiveTime": "2026-07-14T03:18:15.90437202Z"
     },
     "142162": {
       "name": "lunatict",
@@ -12530,7 +12542,7 @@
       "hideOnlineStatus": false,
       "isOnline": true,
       "createdAt": "2025-01-21T01:20:55Z",
-      "inactiveTime": "2026-07-14T03:14:56.024012874Z"
+      "inactiveTime": "2026-07-14T03:18:15.904321267Z"
     },
     "142883": {
       "name": "NILESCO",
@@ -12547,7 +12559,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-01-23T16:01:34Z",
-      "inactiveTime": "2026-07-14T03:14:56.023974022Z"
+      "inactiveTime": "2026-07-14T03:18:15.904285565Z"
     },
     "152005": {
       "name": "GlitchBot",
@@ -12564,7 +12576,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-02-26T13:09:25Z",
-      "inactiveTime": "2026-07-14T03:14:56.024003543Z"
+      "inactiveTime": "2026-07-14T03:18:15.904342498Z"
     },
     "152755": {
       "name": "Yank1",
@@ -12598,7 +12610,7 @@
       "hideOnlineStatus": true,
       "isOnline": false,
       "createdAt": "2025-03-06T06:08:31Z",
-      "inactiveTime": "2026-07-14T03:14:56.023964431Z"
+      "inactiveTime": "2026-07-14T03:18:15.904191249Z"
     },
     "154227": {
       "name": "xiaofushou",
@@ -12615,7 +12627,7 @@
       "hideOnlineStatus": false,
       "isOnline": true,
       "createdAt": "2025-03-06T06:40:17Z",
-      "inactiveTime": "2026-07-14T03:14:56.023967161Z"
+      "inactiveTime": "2026-07-14T03:18:15.904302116Z"
     },
     "154915": {
       "name": "Cra",
@@ -12632,7 +12644,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-03-07T03:17:01Z",
-      "inactiveTime": "2026-07-14T03:14:56.02395105Z"
+      "inactiveTime": "2026-07-14T03:18:15.904215091Z"
     },
     "159311": {
       "name": "yuesemenglong",
@@ -12649,7 +12661,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-03-08T15:21:54Z",
-      "inactiveTime": "2026-07-14T03:14:56.024049706Z"
+      "inactiveTime": "2026-07-14T03:18:15.904359459Z"
     },
     "163306": {
       "name": "TQDB",
@@ -12666,7 +12678,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-03-09T19:20:52Z",
-      "inactiveTime": "2026-07-14T03:14:56.024102319Z"
+      "inactiveTime": "2026-07-14T03:18:15.904259753Z"
     },
     "164359": {
       "name": "sian123",
@@ -12683,7 +12695,7 @@
       "hideOnlineStatus": false,
       "isOnline": true,
       "createdAt": "2025-03-10T02:59:10Z",
-      "inactiveTime": "2026-07-14T03:14:56.024009414Z"
+      "inactiveTime": "2026-07-14T03:18:15.904253143Z"
     },
     "165044": {
       "name": "BestCow",
@@ -12700,7 +12712,7 @@
       "hideOnlineStatus": true,
       "isOnline": false,
       "createdAt": "2025-03-10T05:47:33Z",
-      "inactiveTime": "2026-07-14T03:14:56.023976992Z"
+      "inactiveTime": "2026-07-14T03:18:15.904275304Z"
     },
     "166800": {
       "name": "Catopia",
@@ -12717,7 +12729,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-03-10T16:51:52Z",
-      "inactiveTime": "2026-07-14T03:14:56.02410934Z"
+      "inactiveTime": "2026-07-14T03:18:15.904288795Z"
     },
     "168729": {
       "name": "drtutu",
@@ -12734,7 +12746,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-03-11T05:40:53Z",
-      "inactiveTime": "2026-07-14T03:14:56.024084878Z"
+      "inactiveTime": "2026-07-14T03:18:15.904328267Z"
     },
     "168746": {
       "name": "Rose",
@@ -12751,7 +12763,7 @@
       "hideOnlineStatus": true,
       "isOnline": false,
       "createdAt": "2025-03-11T05:49:07Z",
-      "inactiveTime": "2026-07-14T03:14:56.024099699Z"
+      "inactiveTime": "2026-07-14T03:18:15.904330977Z"
     },
     "170218": {
       "name": "WeiLan",
@@ -12768,7 +12780,7 @@
       "hideOnlineStatus": true,
       "isOnline": false,
       "createdAt": "2025-03-11T14:07:24Z",
-      "inactiveTime": "2026-07-14T03:14:56.024047726Z"
+      "inactiveTime": "2026-07-14T03:18:15.904356939Z"
     },
     "170696": {
       "name": "Deu",
@@ -12785,7 +12797,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-03-11T15:49:50Z",
-      "inactiveTime": "2026-07-14T03:14:56.024035985Z"
+      "inactiveTime": "2026-07-14T03:18:15.904282795Z"
     },
     "172519": {
       "name": "XueYuanZhang",
@@ -12802,7 +12814,7 @@
       "hideOnlineStatus": false,
       "isOnline": true,
       "createdAt": "2025-03-12T01:34:07Z",
-      "inactiveTime": "2026-07-14T03:14:56.024046026Z"
+      "inactiveTime": "2026-07-14T03:18:15.904325367Z"
     },
     "174454": {
       "name": "OwenGod",
@@ -12836,7 +12848,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-03-13T04:07:07Z",
-      "inactiveTime": "2026-07-14T03:14:56.024093889Z"
+      "inactiveTime": "2026-07-14T03:18:15.90419933Z"
     },
     "179773": {
       "name": "17s",
@@ -12853,7 +12865,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-03-13T07:34:35Z",
-      "inactiveTime": "2026-07-14T03:14:56.024078138Z"
+      "inactiveTime": "2026-07-14T03:18:15.904223501Z"
     },
     "180927": {
       "name": "96110",
@@ -12870,7 +12882,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-03-13T12:13:36Z",
-      "inactiveTime": "2026-07-14T03:14:56.024018554Z"
+      "inactiveTime": "2026-07-14T03:18:15.904369329Z"
     },
     "184188": {
       "name": "36Emilk",
@@ -12887,7 +12899,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-03-14T05:15:10Z",
-      "inactiveTime": "2026-07-14T03:14:56.02412151Z"
+      "inactiveTime": "2026-07-14T03:18:15.904265534Z"
     },
     "185331": {
       "name": "JinSeChengTuo",
@@ -12904,7 +12916,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-03-14T10:43:57Z",
-      "inactiveTime": "2026-07-14T03:14:56.023988582Z"
+      "inactiveTime": "2026-07-14T03:18:15.904386941Z"
     },
     "198505": {
       "name": "NakedShark",
@@ -12921,7 +12933,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-03-17T23:59:00Z",
-      "inactiveTime": "2026-07-14T03:14:56.02411206Z"
+      "inactiveTime": "2026-07-14T03:18:15.904310746Z"
     },
     "198628": {
       "name": "xxxhf",
@@ -12938,7 +12950,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-03-18T00:50:30Z",
-      "inactiveTime": "2026-07-14T03:14:56.02411421Z"
+      "inactiveTime": "2026-07-14T03:18:15.904268243Z"
     },
     "206892": {
       "name": "windoge",
@@ -12955,7 +12967,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-03-20T03:15:30Z",
-      "inactiveTime": "2026-07-14T03:14:56.023970341Z"
+      "inactiveTime": "2026-07-14T03:18:15.904304706Z"
     },
     "208440": {
       "name": "Mangobanana",
@@ -12972,7 +12984,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-03-20T12:18:31Z",
-      "inactiveTime": "2026-07-14T03:14:56.023986042Z"
+      "inactiveTime": "2026-07-14T03:18:15.904256523Z"
     },
     "217650": {
       "name": "Saber",
@@ -12989,7 +13001,7 @@
       "hideOnlineStatus": true,
       "isOnline": false,
       "createdAt": "2025-03-23T09:27:24Z",
-      "inactiveTime": "2026-07-14T03:14:56.024095999Z"
+      "inactiveTime": "2026-07-14T03:18:15.904270724Z"
     },
     "219832": {
       "name": "Lilzh777",
@@ -13006,7 +13018,7 @@
       "hideOnlineStatus": true,
       "isOnline": false,
       "createdAt": "2025-03-24T02:59:29Z",
-      "inactiveTime": "2026-07-14T03:14:56.0241073Z"
+      "inactiveTime": "2026-07-14T03:18:15.904262883Z"
     },
     "226574": {
       "name": "ss1985",
@@ -13023,7 +13035,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-03-26T03:03:11Z",
-      "inactiveTime": "2026-07-14T03:14:56.024127781Z"
+      "inactiveTime": "2026-07-14T03:18:15.904250222Z"
     },
     "231259": {
       "name": "Alanish",
@@ -13040,7 +13052,7 @@
       "hideOnlineStatus": true,
       "isOnline": false,
       "createdAt": "2025-03-27T12:16:06Z",
-      "inactiveTime": "2026-07-14T03:14:56.024000393Z"
+      "inactiveTime": "2026-07-14T03:18:15.904323387Z"
     },
     "246876": {
       "name": "liangyu",
@@ -13057,7 +13069,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-04-02T15:30:30Z",
-      "inactiveTime": "2026-07-14T03:14:56.023957661Z"
+      "inactiveTime": "2026-07-14T03:18:15.90421059Z"
     },
     "251689": {
       "name": "meon",
@@ -13074,7 +13086,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-04-04T14:26:38Z",
-      "inactiveTime": "2026-07-14T03:14:56.024136011Z"
+      "inactiveTime": "2026-07-14T03:18:15.90438007Z"
     },
     "259408": {
       "name": "Jonkos",
@@ -13091,7 +13103,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-04-08T03:57:59Z",
-      "inactiveTime": "2026-07-14T03:14:56.024076278Z"
+      "inactiveTime": "2026-07-14T03:18:15.904278914Z"
     },
     "262693": {
       "name": "Liqingzhu",
@@ -13125,7 +13137,7 @@
       "hideOnlineStatus": true,
       "isOnline": false,
       "createdAt": "2025-04-18T04:31:51Z",
-      "inactiveTime": "2026-07-14T03:14:56.024015594Z"
+      "inactiveTime": "2026-07-14T03:18:15.904391721Z"
     },
     "296972": {
       "name": "baxz",
@@ -13159,7 +13171,7 @@
       "hideOnlineStatus": false,
       "isOnline": false,
       "createdAt": "2025-05-12T01:41:17Z",
-      "inactiveTime": "2026-07-14T03:14:56.024040256Z"
+      "inactiveTime": "2026-07-14T03:18:15.904246862Z"
     },
     "461223": {
       "name": "mMOMOMoo",
@@ -13176,7 +13188,7 @@
       "hideOnlineStatus": false,
       "isOnline": true,
       "createdAt": "2025-07-19T18:25:29Z",
-      "inactiveTime": "2026-07-14T03:14:56.024087628Z"
+      "inactiveTime": "2026-07-14T03:18:15.904231421Z"
     }
   },
   "guildInviteMap": {},
@@ -13391,5 +13403,5 @@
   },
   "announcementMessage": "",
   "announcementTimestamp": "0001-01-01T00:00:00Z",
-  "exportedAt": "2026-07-14T03:15:31.292Z"
+  "exportedAt": "2026-07-14T03:19:05.883Z"
 }
